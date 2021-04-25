@@ -1,0 +1,103 @@
+identifier	variety	winery	AVA	vintage	pH	titratableAcidity	ethanol	wineID	collectionYear	sourceDomain
+1	merlot	chateauSteMichelle	columbiaValley	2015	3.91	5.1	15	The Nod Merlot	2020	https://www.ste-michelle.com
+2	cabernetSauvignon	chateauSteMichelle	wahlukeSlope	2016	3.86	5.9	14.8	Block 9 Cabernet Sauvignon	2020	https://www.ste-michelle.com
+3	cabernetSauvignon	chateauSteMichelle	horseHeavenHills	2016	3.8	5.5	14.6	Cabernet Sauvignon Horse Heaven Hills	2020	https://www.ste-michelle.com
+4	cabernetSauvignon	chateauSteMichelle	columbiaValley	2015	3.88	5.6	14.8	Rich Wheeler Block CS	2020	https://www.ste-michelle.com
+5	cabernetSauvignon	chateauSteMichelle	columbiaValley	2015	3.82	5.4	15.1	Druthers CS	2020	https://www.ste-michelle.com
+6	bordeauxBlend	chateauSteMichelle	columbiaValley	2015	3.85	5.5	14.5	Artist Series CS	2020	https://www.ste-michelle.com
+7	cabernetFranc	chateauSteMichelle	columbiaValley	2015	3.95	5	15.1	Cold Creek Cabernet Franc	2020	https://www.ste-michelle.com
+8	bordeauxBlend	chateauSteMichelle	horseHeavenHills	2016	3.7	5.6	14.5	Canoe Ridge Red Blend	2020	https://www.ste-michelle.com
+9	cabernetSauvignon	chateauSteMichelle	columbiaValley	2015	3.8	5.7	14.5	Cold Creek Cabernet Sauvignon	2020	https://www.ste-michelle.com
+10	cabernetSauvignon	chateauSteMichelle	redMountain	2016	3.83	5.6	14.9	Red Mountain Cabernet Sauvignon	2020	https://www.ste-michelle.com
+11	merlot	chateauSteMichelle	columbiaValley	2017	3.78	5.6	14.5	Indian Wells Merlot	2020	https://www.ste-michelle.com
+12	cabernetSauvignon	chateauSteMichelle	columbiaValley	2017	3.86	5.5	14.5	Indian Wells Cabernet Sauvignon	2020	https://www.ste-michelle.com
+13	cabernetSauvignon	chateauSteMichelle	columbiaValley	2017	3.83	6.1	13.5	Columbia Valley Cabernet Sauvignon	2020	https://www.ste-michelle.com
+14	cabernetSauvignon	chateauSteMichelle	columbiaValley	2016	3.74	5.6	14.5	Artist Series Guardian	2020	https://www.ste-michelle.com
+15	bordeauxBlend	chateauSteMichelle	columbiaValley	2016	3.69	5.8	14.5	Cold Creek Red Blend	2020	https://www.ste-michelle.com
+16	bordeauxBlend	kiona	redMountain	2016	3.82	5.2	14.8	Estate Red Mountain Reserve	2020	https://www.kionawine.com
+17	cabernetSauvignon	kiona	redMountain	2016	3.8	5.4	14.5	Estate Red Mountain Cabernet Sauvignon	2020	https://www.kionawine.com
+18	merlot	kiona	redMountain	2017	3.59	5.9	14.5	Estate Red Mountain Merlot	2020	https://www.kionawine.com
+19	malbec	kiona	redMountain	2017	3.8	5	14.5	Estate Red Mountain Malbec	2020	https://www.kionawine.com
+20	cabernetSauvignon	kiona	columbiaValley	2016	3.8	5.6	13.9	Columbia Valley Estates Cuvee	2020	https://www.kionawine.com
+21	cabernetSauvignon	14hands	horseHeavenHills	2016	3.79	5.7	14.5	Reserve Cabernet Sauvignon	2020	https://www.14hands.com
+22	merlot	14hands	horseHeavenHills	2016	3.86	5.1	15	Reserve Merlot	2020	https://www.14hands.com
+23	bordeauxBlend	14hands	horseHeavenHills	2016	3.81	5.7	14.5	Reserve Red Blend	2020	https://www.14hands.com
+24	merlot	14hands	columbiaValley	2016	3.73	5.4	13.5	14 Hands Merlot	2020	https://www.14hands.com
+25	bordeauxBlend	14hands	horseHeavenHills	2016	3.81	5.4	15	Reserve Cabernet Franc-Merlot	2020	https://www.14hands.com
+26	petitVerdot	14hands	horseHeavenHills	2015	3.81	5.8	14.5	Reserve Petit Verdot	2020	https://www.14hands.com
+27	bordeauxBlend	14hands	horseHeavenHills	2015	3.76	5.7	14.5	Reserve Red Blend	2020	https://www.14hands.com
+28	merlot	14hands	horseHeavenHills	2015	3.76	5.6	14.9	Reserve Merlot	2020	https://www.14hands.com
+29	bordeauxBlend	14hands	columbiaValley	2015	3.75	5.4	14.5	Vintage Series Red Wine Blend	2020	https://www.14hands.com
+30	bordeauxBlend	sparkman	columbiaValley	2018	3.86	5.7	14	Kindred Red Blend	2020	https://sparkmancellars.com
+31	cabernetSauvignon	sparkman	yakimaValley	2017	3.84	5.4	14.5	Rainmaker Cabernet Sauvignon	2020	https://sparkmancellars.com
+32	petitVerdot	sparkman	yakimaValley	2017	4.06	5.1	14.5	Underworld Petit Verdot	2020	https://sparkmancellars.com
+33	cabernetSauvignon	sparkman	columbiaValley	2018	3.81	5.2	14.5	Holler Cabernet Sauvignon	2020	https://sparkmancellars.com
+34	bordeauxBlend	sparkman	columbiaValley	2016	3.85	5.7	14.5	Ruby Leigh Merlot Blend	2020	https://sparkmancellars.com
+35	bordeauxBlend	sparkman	columbiaValley	2016	3.85	5.8	14.5	Stella Mae Cabernet Sauvignong blend	2020	https://sparkmancellars.com
+36	merlot	sparkman	columbiaValley	2017	3.8	5.1	14.5	Outlaw Merlow	2020	https://sparkmancellars.com
+37	cabernetFranc	sparkman	yakimaValley	2017	3.96	4.6	14.5	Yonder Cabernet Franc	2020	https://sparkmancellars.com
+38	malbec	sparkman	redMountain	2017	3.97	5.7	14.5	Preposterous Malbec	2020	https://sparkmancellars.com
+39	cabernetSauvignon	sparkman	redMountain	2016	3.92	5.7	14.5	Kingpin Cabernet Sauvignon	2020	https://sparkmancellars.com
+40	cabernetSauvignon	sparkman	columbiaValley	2016	3.94	5.8	14.5	Evermore Old Vines Cabernet Sauvignon	2020	https://sparkmancellars.com
+41	cabernetSauvignon	noveltyHill	columbiaValley	2017	3.78	5.5	14.4	Stillwater Creek Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
+42	cabernetSauvignon	januik	redMountain	2017	3.75	5.5	NA	Ciel du Cheval Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
+43	merlot	noveltyHill	columbiaValley	2016	3.72	5.5	14.4	Stillwater Creek Merlot	2020	https://www.noveltyhilljanuik.com
+44	merlot	januik	redMountain	2017	3.66	5.2	NA	Klipsun Merlot	2020	https://www.noveltyhilljanuik.com
+45	malbec	noveltyHill	columbiaValley	2017	3.68	5.6	14.4	Stillwater Creek Malbec	2020	https://www.noveltyhilljanuik.com
+46	merlot	januik	columbiaValley	2017	3.7	5.4	NA	Columbia Valley Merlot	2020	https://www.noveltyhilljanuik.com
+47	cabernetFranc	januik	wahlukeSlope	2017	3.72	5.4	14.4	Weinbau Vineyard Cabernet Franc	2020	https://www.noveltyhilljanuik.com
+48	cabernetSauvignon	noveltyHill	columbiaValley	2017	3.74	5.4	14.4	Columbia Valley Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
+49	merlot	noveltyHill	columbiaValley	2017	3.7	5.2	14.4	Columbia Valley Merlot	2020	https://www.noveltyhilljanuik.com
+50	bordeauxBlend	noveltyHill	columbiaValley	2018	3.74	5.5	14.4	Columbia Valley R.S.R Red Wine	2020	https://www.noveltyhilljanuik.com
+51	merlot	januik	columbiaValley	2016	3.7	5.4	NA	Champoux Vineyard Merlot	2020	https://www.noveltyhilljanuik.com
+52	cabernetSauvignon	januik	redMountain	2017	3.78	5.6	NA	Red Mountain Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
+53	cabernetSauvignon	abeja	columbiaValley	2017	3.84	5.4	14.5	Columbia Valley Cabernet Sauvignon	2020	https://www.abeja.net
+54	merlot	abeja	columbiaValley	2018	3.71	5.1	14.5	Columbia Valley Merlot	2020	https://www.abeja.net
+55	cabernetFranc	abeja	wallawallaValley	2018	3.87	5	14.5	Heather Hill Cabernet Franc	2020	https://www.abeja.net
+56	cabernetSauvignon	abeja	wallawallaValley	2017	3.85	5.85	14.5	Heather Hill Cabernet Sauvignon	2020	https://www.abeja.net
+57	bordeauxBlend	abeja	washingtonState	2018	3.84	5.62	14.2	Beekeeper's Blend	2020	https://www.abeja.net
+58	cabernetSauvignon	apexCellars	columbiaValley	2015	3.59	6.18	14.3	Columbia Valley Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/apex/
+59	cabernetSauvignon	apexCellars	redMountain	2015	3.76	5.53	12.8	Red Mountain Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/apex/
+60	cabernetSauvignon	4cellars	columbiaValley	2017	3.9	5.44	13.9	4 Cellars Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/4-cellars/
+61	cabernetSauvignon	alderRidge	horseHeavenHills	2016	3.56	6.75	14.7	Alder Ridge Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/alder-ridge/
+62	cabernetSauvignon	alderRidge	horseHeavenHills/Yakima	2017	3.9	6.2	13.8	Six Prong Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/alder-ridge/
+63	cabernetSauvignon	browneFamilyVineyards	columbiaValley	2015	3.86	5.9	15.4	Bitner Red Blend	2020	https://www.preceptwine.com/our-wines/browne-family/
+64	cabernetFranc	browneFamilyVineyards	columbiaValley	2017	3.79	5	14	Cabernet Franc	2020	https://www.preceptwine.com/our-wines/browne-family/
+65	cabernetSauvignon	browneFamilyVineyards	columbiaValley	2018	3.89	5.3	14	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/browne-family/
+66	merlot	browneFamilyVineyards	wallawallaValley	2015	3.91	5	14.5	Estate Merlot	2020	https://www.preceptwine.com/our-wines/browne-family/
+67	cabernetSauvignon	browneFamilyVineyards	columbiaValley	2018	3.9	5.44	13.9	Family Vineyards Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/browne-family/
+68	cabernetSauvignon	browneFamilyVineyards	columbiaValley	2018	3.91	5.1	14	Heritage Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/browne-family/
+69	malbec	browneFamilyVineyards	columbiaValley	2017	3.86	5.5	12.3	Malbec	2020	https://www.preceptwine.com/our-wines/browne-family/
+70	merlot	browneFamilyVineyards	columbiaValley	2017	3.88	4.5	14.2	Merlot	2020	https://www.preceptwine.com/our-wines/browne-family/
+71	petitVerdot	browneFamilyVineyards	columbiaValley	2017	3.89	5.1	13.9	Petit Verdot	2020	https://www.preceptwine.com/our-wines/browne-family/
+72	bordeauxBlend	browneFamilyVineyards	columbiaValley	2017	3.78	5.2	14.11	Tribute Red Blend	2020	https://www.preceptwine.com/our-wines/browne-family/
+73	cabernetSauvignon	canoeRidge	columbiaValley	2018	3.94	4.92	14	Columbia Valley Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+74	merlot	canoeRidge	columbiaValley	2018	3.96	5.31	14	Columbia Valley Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+75	bordeauxBlend	canoeRidge	columbiaValley	2018	3.8	5.85	14.3	Columbia Valley Red Blend	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+76	cabernetSauvignon	canoeRidge	horseHeavenHills	2016	3.74	5.78	14	Reserve Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+77	merlot	canoeRidge	horseHeavenHills	2016	3.67	5.85	14	Reserve Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+78	cabernetSauvignon	canoeRidge	horseHeavenHills	2018	3.8	5.56	14	Expedition Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+79	malbec	canoeRidge	horseHeavenHills	2018	3.76	6.73	14	Expedition Malbec	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+80	merlot	canoeRidge	horseHeavenHills	2018	3.81	4.63	14	Expedition Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+81	bordeauxBlend	canoeRidge	horseHeavenHills	2018	3.84	4.75	14	Expedition Red Blend	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+82	merlot	canoeRidge	horseHeavenHills	2017	3.76	5.59	14	Explorer Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+83	bordeauxBlend	canoeRidge	horseHeavenHills	2016	3.7	5.83	14.4	Explorer Red Blend	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+84	cabernetSauvignon	houseWine	columbiaValley	2018	3.86	5.58	13.3	Dark Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/house-wine/
+85	merlot	houseWine	columbiaValley	2018	3.89	5.53	14.1	Mountain Merlot	2020	https://www.preceptwine.com/our-wines/house-wine/
+86	cabernetSauvignon	houseWine	columbiaValley	2018	3.9	5.38	13.9	Steak House Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/house-wine/
+87	cabernetSauvignon	pendulum	columbiaValley	2018	3.83	5.3	13.8	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/pendulum/
+88	bordeauxBlend	pendulum	columbiaValley	2018	3.75	5.8	14	Red Blend	2020	https://www.preceptwine.com/our-wines/pendulum/
+89	cabernetSauvignon	sagelands	columbiaValley	2018	3.83	5.61	13.7	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/sagelands/
+90	cabernetSauvignon	sagelands	columbiaValley	2018	3.86	5.76	13.2	Dark Shadow Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/sagelands/
+91	merlot	sagelands	columbiaValley	2018	3.89	5.53	14.1	Merlot	2020	https://www.preceptwine.com/our-wines/sagelands/
+92	cabernetSauvignon	theHuntsman	columbiaValley	2017	3.93	5.16	13.2	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/the-huntsman/
+93	cabernetSauvignon	washingtonHills	columbiaValley	2018	3.83	5.61	13.7	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/washington-hills/
+94	merlot	washingtonHills	columbiaValley	2017	3.87	5.03	13.4	Merlot	2020	https://www.preceptwine.com/our-wines/washington-hills/
+95	cabernetSauvignon	waterBrook	columbiaValley	2018	3.95	5.1	14.3	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/waterbrook/
+96	malbec	waterBrook	columbiaValley	2018	3.75	5.6	13.3	Malbec	2020	https://www.preceptwine.com/our-wines/waterbrook/
+97	bordeauxBlend	waterBrook	columbiaValley	2018	3.81	5.5	14	Melange Founder's Red Blend	2020	https://www.preceptwine.com/our-wines/waterbrook/
+98	merlot	waterBrook	columbiaValley	2018	3.86	4.6	14.5	Merlot	2020	https://www.preceptwine.com/our-wines/waterbrook/
+99	cabernetSauvignon	waterBrook	redMountain	2017	3.9	5.1	14.9	Red Mountain Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/waterbrook/
+100	cabernetSauvignon	waterBrook	columbiaValley	2017	3.93	5.7	14.3	Reserve Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/waterbrook/
+101	malbec	waterBrook	columbiaValley	2017	3.79	5.6	14	Reserve Malbec	2020	https://www.preceptwine.com/our-wines/waterbrook/
+102	merlot	waterBrook	columbiaValley	2017	3.71	5.3	14	Reserve Merlot	2020	https://www.preceptwine.com/our-wines/waterbrook/
