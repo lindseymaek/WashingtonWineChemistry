@@ -101,3 +101,50 @@ identifier	variety	winery	AVA	vintage	pH	titratableAcidity	ethanol	wineID	collec
 100	cabernetSauvignon	waterBrook	columbiaValley	2017	3.93	5.7	14.3	Reserve Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/waterbrook/
 101	malbec	waterBrook	columbiaValley	2017	3.79	5.6	14	Reserve Malbec	2020	https://www.preceptwine.com/our-wines/waterbrook/
 102	merlot	waterBrook	columbiaValley	2017	3.71	5.3	14	Reserve Merlot	2020	https://www.preceptwine.com/our-wines/waterbrook/
+103	cabernetSauvignon	powers	wahlukeSlope	2016	3.85	6.5	14	Katherine Leone Vineyard Cabernet Sauvignon	2021	https://badgerpowers-shop.vintegrate.com/2016-Katherine-Leone-Cab-Sauvignon
+104	bordeauxBlend	powers	horseHeavenHills	2017	3.8	6.3	14	Horse Heaven Hills Red Blend	2021	https://badgerpowers-shop.vintegrate.com/2017-HHH-Red-Blend
+105	cabernetSauvignon	powers	wahlukeSlope	2017	3.79	6.5	14	Ravenscliff Cabernet Sauvignon	2021	https://badgerpowers-shop.vintegrate.com/2017-Ravenscliff-Cab-Sauvignon
+106	bordeauxBlend	chateauSteMichelle	columbiaValley	2018	3.86	5.6	13.5	Columbia Valley Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-cabernet-sauvignon/5637307326.p
+107	malbec	chateauSteMichelle	columbiaValley	2017	3.79	5.6	14.8	Limited Release Royal Slope Malbec	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2017-limited-release-royal-slope-malbec/5637224828.p
+108	merlot	chateauSteMichelle	horseHeavenHills	2016	3.78	5.4	14.5	Canoe Ridge Estate Merlot	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-canoe-ridge-estate-merlot/5637246578.p
+109	rhoneBlend	chateauSteMichelle	columbiaValley	2018	3.87	5.6	14.9	Limited Release Austral Red Wine	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-limited-release-austral-red-wine/5637284830.p
+110	syrah	chateauSteMichelle	yakimaValley	2018	3.8	6.2	14.5	Limited Release Syrano Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-limited-release-syrano-syrah/5637284831.p
+111	syrah	chateauSteMichelle	columbiaValley	2019	3.89	5.4	13.5	Columbia Valley Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2019-syrah/5637300576.p
+112	cabernetSauvignon	chateauSteMichelle	columbiaValley	2017	3.86	5.4	14.8	Ethos Reserve Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2017-ethos-reserve-cabernet-sauvignon/5637308081.p
+113	syrah	chateauSteMichelle	rattlesnakeHills	2016	3.69	5.9	14	Limited Release Syrano Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-syrano-syrah/5637166390.p
+114	rhoneBlend	chateauSteMichelle	columbiaValley	2016	3.87	5.3	15.2	Limited Release Austral Red Wine	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-austral-red-wine/5637166333.p
+115	cabernetSauvignon	chateauSteMichelle	columbiaValley	2018	3.85	5.5	14.5	Indian Wells Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-indian-wells-cabernet-sauvignon/5637302080.p
+116	sangiovese	chateauSteMichelle	horseHeavenHills	2016	3.83	5.6	14.5	Limited Release Sangiovese	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-sangiovese/5637166389.p
+117	bordeauxBlend	chateauSteMichelle	columbiaValley	2016	3.78	5.8	14.9	IMPETUS Red Wine	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-impetus-red-wine/5637166342.p
+118	cabernetSauvignon	chateauSteMichelle	horseHeavenHills	2017	3.85	5.4	14.5	Canoe Ridge Estate Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2017-canoe-ridge-estate-cabernet-sauvignon/5637280340.p
+119	counoise	chateauSteMichelle	horseHeavenHills	2016	3.87	4.6	16.2	Counoise	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-counoise/5637166337.p
+120	cabernetFranc	chateauSteMichelle	columbiaValley	2016	3.85	5.2	15.2	Limited Release Cold Creek Cabernet Franc	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-cold-creek-cabernet-franc/5637161225.p
+121	grenache	chateauSteMichelle	columbiaValley	2016	3.73	5.3	15	Limited Release Grenache	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-grenache/5637161220.p
+122	cabernetSauvignon	chateauSteMichelle	columbiaValley	2016	3.81	5.5	15.5	Druthers CS	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-druthers-cabernet-sauvignon/5637161223.p
+123	merlot	chateauSteMichelle	columbiaValley	2016	3.69	5.8	14.8	The Nod Merlot	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-%22the-nod%22-merlot/5637161226.p
+124	syrah	chateauSteMichelle	yakimaValley	2016	3.89	5.4	15	Boreal Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-boreal-syrah/5637161247.p
+125	cabernetSauvignon	henceCellars	columbiaValley	2016	3.95	7.4	14.25	Columbia Valley Cabernet Sauvignon	2021	https://hencecellars.com/2016-cabernet-sauvignon-2/
+126	malbec	henceCellars	wallawallaValley	2016	3.8	7.9	14.35	Malbec	2021	https://hencecellars.com/2016-malbec-3/
+127	petitVerdot	henceCellars	columbiaValley	2016	3.7	6.3	13.98	Petit Verdot	2021	https://hencecellars.com/2016-petit-verdot-3/
+128	malbec	airfieldEstates	yakimaValley	2019	3.74	6.2	14	Malbec	2021	https://www.airfieldwines.com/wine-shop/detail/2019-malbec/
+129	redBlend	airfieldEstates	yakimaValley	2019	3.67	6.4	14	Spitfire	2021	https://www.airfieldwines.com/wine-shop/detail/2019-spitfire/
+130	redBlend	airfieldEstates	yakimaValley	2019	3.98	5	14.1	Hellcat	2021	https://www.airfieldwines.com/wine-shop/detail/2019-hellcat/
+131	cabernetSauvignon	airfieldEstates	yakimaValley	2018	3.81	5.9	14.2	Reserve Cabernet Sauvignon	2021	https://www.airfieldwines.com/wine-shop/detail/2018-reserve-cabernet-sauvignon/
+132	bordeauxBlend	airfieldEstates	yakimaValley	2019	3.76	6	14.2	Bombshell Red	2021	https://www.airfieldwines.com/wine-shop/detail/2019-bombshell/
+133	merlot	airfieldEstates	yakimaValley	2017	3.89	6	14.3	Reserve Merlot	2021	https://www.airfieldwines.com/wine-shop/detail/2017-reserve-merlot/
+134	bordeauxBlend	airfieldEstates	yakimaValley	2018	3.87	5.7	14.1	Runway Red Blend	2021	https://www.airfieldwines.com/wine-shop/detail/2018-runway-red-blend/
+135	bordeauxBlend	airfieldEstates	yakimaValley	2018	3.75	6	14.3	Founders H. Lloyd	2021	https://www.airfieldwines.com/wine-shop/detail/2018-founders-h-lloyd/
+136	rhoneBlend	airfieldEstates	yakimaValley	2018	3.84	5.9	14.2	Founders Michael	2021	https://www.airfieldwines.com/wine-shop/detail/2018-founders-michael/
+137	syrah	airfieldEstates	yakimaValley	2018	3.8	5.6	14.4	Reserve Syrah	2021	https://www.airfieldwines.com/wine-shop/detail/2018-reserve-syrah/
+138	bordeauxBlend	airfieldEstates	yakimaValley	2018	3.74	6	14.2	Aviator	2021	https://www.airfieldwines.com/wine-shop/detail/2018-aviator/
+139	rhoneBlend	airfieldEstates	yakimaValley	2018	3.89	5.8	14	Mustang	2021	https://www.airfieldwines.com/wine-shop/detail/2018-mustang/
+140	merlot	airfieldEstates	yakimaValley	2019	3.8	6	14.3	Merlot	2021	https://www.airfieldwines.com/wine-shop/detail/2019-merlot/
+141	syrah	airfieldEstates	yakimaValley	2019	3.89	5.5	14.6	Syrah	2021	https://www.airfieldwines.com/wine-shop/detail/2019-syrah/
+142	bordeauxBlend	airfieldEstates	yakimaValley	2019	3.84	5.9	14.2	Dauntless	2021	https://www.airfieldwines.com/wine-shop/detail/2019-dauntless/
+143	syrah	pursuedByBear	columbiaValley	2017	3.94	5.2	14.2	Baby Bear	2021	https://www.pursuedbybearwine.com/2017-syrah.html
+144	syrah	pursuedByBear	columbiaValley	2016	3.91	6.1	14.5	Baby Bear	2021	https://www.pursuedbybearwine.com/2016-syrah.html
+145	cabernetSauvignon	pursuedByBear	columbiaValley	2018	3.69	6	14.2	Pursued By Bear	2021	https://www.pursuedbybearwine.com/2018-cabernet-sauvignon.html
+146	cabernetSauvignon	pursuedByBear	columbiaValley	2016	3.75	6.3	14.2	Pursued By Bear	2021	https://www.pursuedbybearwine.com/2016-cabernet-sauvignon.html
+147	bordeauxBlend	pursuedByBear	columbiaValley	2017	3.87	5.6	14.2	Bear Cub	2021	https://www.pursuedbybearwine.com/2017-bear-cub.html
+148	bordeauxBlend	pursuedByBear	columbiaValley	2016	3.84	6.5	14.2	Bear Cub	2021	https://www.pursuedbybearwine.com/2016-bear-cub.html
+149	cabernetSauvignon	pursuedByBear	wallawallaValley	2017	3.83	6.1	14.2	Twin Bear	2021	https://www.pursuedbybearwine.com/2017-twin-bear.html
