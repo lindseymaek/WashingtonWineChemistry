@@ -4,13 +4,13 @@ WaWineChem.txt is a dataset of Washington State wine chemistry data curated from
 
 The dataset by column:
 1) identifier - number indicating position in the dataset
-2) variety - red varieties only. Single varieties have at least 80/% of the specified variety. Blends may be specified (example, Bordeaux or Rhone) if they contain at least 80/% of these varieties. In all other cases wines are referred to only as "Red Blends."
+2) variety - red varieties only. Single varieties have at least 80\% of the specified variety. Blends may be specified (example, Bordeaux or Rhone) if they contain at least 80\% of these varieties. In all other cases wines are referred to only as "Red Blends."
 3) winery - Beginning with the data collection year 2021, wineries randomly selected from those listed on the Washington Wine Commission website at the time of data collection for that year until 20 wineries were collected for which data could be found.
 4) AVA - American Viticultural Area. Only Eastern Washington AVAs as were recognized at the time of the wine bottlings are reported and may not be as specific as is currently recognized.
 5) vintage - year of harvest and production. Multi-vintage products will not be included in this dataset.
 6) pH - reported as listed by the winery. 
 7) titratableAcidity - reported in grams per Liter as listed by the winery. The standard in the United States is to use tartaric acid equivalents and a titration endpoint of pH 8.2. The particulars of this measurement practice regarding these data have not been verified with any winery, nor are the significant figures necessarily appropriately reported.
-8) ethanol - ethanol concentration represented in %v/v as reported by the winery
+8) ethanol - ethanol concentration represented in \%v/v as reported by the winery
 9) wineID - memo containing other identifying information about the wine such as the product name
 10) collectionYear - year of the data collection. It is the objective of WashingtonWineChemistry repository that data will be added on a yearly basis and will consider a moving range of 4 vintage years (The 2020 collection year examines 2015-2018, the 2021 collection year examines 2016-2019 and so on). If a randomly selected winery is already present in the dataset, only new wines will be included
 11) sourceDomain - original website of the winery reporting the data. Furthermore, the web pages or technical sheets, where available are also available for viewing under source files folder.
