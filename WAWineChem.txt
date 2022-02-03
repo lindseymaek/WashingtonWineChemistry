@@ -1,212 +1,253 @@
-identifier	variety	winery	AVA	vintage	pH	titratableAcidity	ethanol	wineID	collectionYear	sourceDomain
-1	merlot	chateauSteMichelle	columbiaValley	2015	3.91	5.1	15	The Nod Merlot	2020	https://www.ste-michelle.com
-2	cabernetSauvignon	chateauSteMichelle	wahlukeSlope	2016	3.86	5.9	14.8	Block 9 Cabernet Sauvignon	2020	https://www.ste-michelle.com
-3	cabernetSauvignon	chateauSteMichelle	horseHeavenHills	2016	3.8	5.5	14.6	Cabernet Sauvignon Horse Heaven Hills	2020	https://www.ste-michelle.com
-4	cabernetSauvignon	chateauSteMichelle	columbiaValley	2015	3.88	5.6	14.8	Rich Wheeler Block CS	2020	https://www.ste-michelle.com
-5	cabernetSauvignon	chateauSteMichelle	columbiaValley	2015	3.82	5.4	15.1	Druthers CS	2020	https://www.ste-michelle.com
-6	bordeauxBlend	chateauSteMichelle	columbiaValley	2015	3.85	5.5	14.5	Artist Series CS	2020	https://www.ste-michelle.com
-7	cabernetFranc	chateauSteMichelle	columbiaValley	2015	3.95	5	15.1	Cold Creek Cabernet Franc	2020	https://www.ste-michelle.com
-8	bordeauxBlend	chateauSteMichelle	horseHeavenHills	2016	3.7	5.6	14.5	Canoe Ridge Red Blend	2020	https://www.ste-michelle.com
-9	cabernetSauvignon	chateauSteMichelle	columbiaValley	2015	3.8	5.7	14.5	Cold Creek Cabernet Sauvignon	2020	https://www.ste-michelle.com
-10	cabernetSauvignon	chateauSteMichelle	redMountain	2016	3.83	5.6	14.9	Red Mountain Cabernet Sauvignon	2020	https://www.ste-michelle.com
-11	merlot	chateauSteMichelle	columbiaValley	2017	3.78	5.6	14.5	Indian Wells Merlot	2020	https://www.ste-michelle.com
-12	cabernetSauvignon	chateauSteMichelle	columbiaValley	2017	3.86	5.5	14.5	Indian Wells Cabernet Sauvignon	2020	https://www.ste-michelle.com
-13	cabernetSauvignon	chateauSteMichelle	columbiaValley	2017	3.83	6.1	13.5	Columbia Valley Cabernet Sauvignon	2020	https://www.ste-michelle.com
-14	cabernetSauvignon	chateauSteMichelle	columbiaValley	2016	3.74	5.6	14.5	Artist Series Guardian	2020	https://www.ste-michelle.com
-15	bordeauxBlend	chateauSteMichelle	columbiaValley	2016	3.69	5.8	14.5	Cold Creek Red Blend	2020	https://www.ste-michelle.com
-16	bordeauxBlend	kiona	redMountain	2016	3.82	5.2	14.8	Estate Red Mountain Reserve	2020	https://www.kionawine.com
-17	cabernetSauvignon	kiona	redMountain	2016	3.8	5.4	14.5	Estate Red Mountain Cabernet Sauvignon	2020	https://www.kionawine.com
-18	merlot	kiona	redMountain	2017	3.59	5.9	14.5	Estate Red Mountain Merlot	2020	https://www.kionawine.com
-19	malbec	kiona	redMountain	2017	3.8	5	14.5	Estate Red Mountain Malbec	2020	https://www.kionawine.com
-20	cabernetSauvignon	kiona	columbiaValley	2016	3.8	5.6	13.9	Columbia Valley Estates Cuvee	2020	https://www.kionawine.com
-21	cabernetSauvignon	14hands	horseHeavenHills	2016	3.79	5.7	14.5	Reserve Cabernet Sauvignon	2020	https://www.14hands.com
-22	merlot	14hands	horseHeavenHills	2016	3.86	5.1	15	Reserve Merlot	2020	https://www.14hands.com
-23	bordeauxBlend	14hands	horseHeavenHills	2016	3.81	5.7	14.5	Reserve Red Blend	2020	https://www.14hands.com
-24	merlot	14hands	columbiaValley	2016	3.73	5.4	13.5	14 Hands Merlot	2020	https://www.14hands.com
-25	bordeauxBlend	14hands	horseHeavenHills	2016	3.81	5.4	15	Reserve Cabernet Franc-Merlot	2020	https://www.14hands.com
-26	petitVerdot	14hands	horseHeavenHills	2015	3.81	5.8	14.5	Reserve Petit Verdot	2020	https://www.14hands.com
-27	bordeauxBlend	14hands	horseHeavenHills	2015	3.76	5.7	14.5	Reserve Red Blend	2020	https://www.14hands.com
-28	merlot	14hands	horseHeavenHills	2015	3.76	5.6	14.9	Reserve Merlot	2020	https://www.14hands.com
-29	bordeauxBlend	14hands	columbiaValley	2015	3.75	5.4	14.5	Vintage Series Red Wine Blend	2020	https://www.14hands.com
-30	bordeauxBlend	sparkman	columbiaValley	2018	3.86	5.7	14	Kindred Red Blend	2020	https://sparkmancellars.com
-31	cabernetSauvignon	sparkman	yakimaValley	2017	3.84	5.4	14.5	Rainmaker Cabernet Sauvignon	2020	https://sparkmancellars.com
-32	petitVerdot	sparkman	yakimaValley	2017	4.06	5.1	14.5	Underworld Petit Verdot	2020	https://sparkmancellars.com
-33	cabernetSauvignon	sparkman	columbiaValley	2018	3.81	5.2	14.5	Holler Cabernet Sauvignon	2020	https://sparkmancellars.com
-34	bordeauxBlend	sparkman	columbiaValley	2016	3.85	5.7	14.5	Ruby Leigh Merlot Blend	2020	https://sparkmancellars.com
-35	bordeauxBlend	sparkman	columbiaValley	2016	3.85	5.8	14.5	Stella Mae Cabernet Sauvignong blend	2020	https://sparkmancellars.com
-36	merlot	sparkman	columbiaValley	2017	3.8	5.1	14.5	Outlaw Merlow	2020	https://sparkmancellars.com
-37	cabernetFranc	sparkman	yakimaValley	2017	3.96	4.6	14.5	Yonder Cabernet Franc	2020	https://sparkmancellars.com
-38	malbec	sparkman	redMountain	2017	3.97	5.7	14.5	Preposterous Malbec	2020	https://sparkmancellars.com
-39	cabernetSauvignon	sparkman	redMountain	2016	3.92	5.7	14.5	Kingpin Cabernet Sauvignon	2020	https://sparkmancellars.com
-40	cabernetSauvignon	sparkman	columbiaValley	2016	3.94	5.8	14.5	Evermore Old Vines Cabernet Sauvignon	2020	https://sparkmancellars.com
-41	cabernetSauvignon	noveltyHill	columbiaValley	2017	3.78	5.5	14.4	Stillwater Creek Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
-42	cabernetSauvignon	januik	redMountain	2017	3.75	5.5	NA	Ciel du Cheval Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
-43	merlot	noveltyHill	columbiaValley	2016	3.72	5.5	14.4	Stillwater Creek Merlot	2020	https://www.noveltyhilljanuik.com
-44	merlot	januik	redMountain	2017	3.66	5.2	NA	Klipsun Merlot	2020	https://www.noveltyhilljanuik.com
-45	malbec	noveltyHill	columbiaValley	2017	3.68	5.6	14.4	Stillwater Creek Malbec	2020	https://www.noveltyhilljanuik.com
-46	merlot	januik	columbiaValley	2017	3.7	5.4	NA	Columbia Valley Merlot	2020	https://www.noveltyhilljanuik.com
-47	cabernetFranc	januik	wahlukeSlope	2017	3.72	5.4	14.4	Weinbau Vineyard Cabernet Franc	2020	https://www.noveltyhilljanuik.com
-48	cabernetSauvignon	noveltyHill	columbiaValley	2017	3.74	5.4	14.4	Columbia Valley Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
-49	merlot	noveltyHill	columbiaValley	2017	3.7	5.2	14.4	Columbia Valley Merlot	2020	https://www.noveltyhilljanuik.com
-50	bordeauxBlend	noveltyHill	columbiaValley	2018	3.74	5.5	14.4	Columbia Valley R.S.R Red Wine	2020	https://www.noveltyhilljanuik.com
-51	merlot	januik	columbiaValley	2016	3.7	5.4	NA	Champoux Vineyard Merlot	2020	https://www.noveltyhilljanuik.com
-52	cabernetSauvignon	januik	redMountain	2017	3.78	5.6	NA	Red Mountain Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
-53	cabernetSauvignon	abeja	columbiaValley	2017	3.84	5.4	14.5	Columbia Valley Cabernet Sauvignon	2020	https://www.abeja.net
-54	merlot	abeja	columbiaValley	2018	3.71	5.1	14.5	Columbia Valley Merlot	2020	https://www.abeja.net
-55	cabernetFranc	abeja	wallawallaValley	2018	3.87	5	14.5	Heather Hill Cabernet Franc	2020	https://www.abeja.net
-56	cabernetSauvignon	abeja	wallawallaValley	2017	3.85	5.85	14.5	Heather Hill Cabernet Sauvignon	2020	https://www.abeja.net
-57	bordeauxBlend	abeja	washingtonState	2018	3.84	5.62	14.2	Beekeeper's Blend	2020	https://www.abeja.net
-58	cabernetSauvignon	apexCellars	columbiaValley	2015	3.59	6.18	14.3	Columbia Valley Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/apex/
-59	cabernetSauvignon	apexCellars	redMountain	2015	3.76	5.53	12.8	Red Mountain Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/apex/
-60	cabernetSauvignon	4cellars	columbiaValley	2017	3.9	5.44	13.9	4 Cellars Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/4-cellars/
-61	cabernetSauvignon	alderRidge	horseHeavenHills	2016	3.56	6.75	14.7	Alder Ridge Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/alder-ridge/
-62	cabernetSauvignon	alderRidge	horseHeavenHills/Yakima	2017	3.9	6.2	13.8	Six Prong Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/alder-ridge/
-63	cabernetSauvignon	browneFamilyVineyards	columbiaValley	2015	3.86	5.9	15.4	Bitner Red Blend	2020	https://www.preceptwine.com/our-wines/browne-family/
-64	cabernetFranc	browneFamilyVineyards	columbiaValley	2017	3.79	5	14	Cabernet Franc	2020	https://www.preceptwine.com/our-wines/browne-family/
-65	cabernetSauvignon	browneFamilyVineyards	columbiaValley	2018	3.89	5.3	14	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/browne-family/
-66	merlot	browneFamilyVineyards	wallawallaValley	2015	3.91	5	14.5	Estate Merlot	2020	https://www.preceptwine.com/our-wines/browne-family/
-67	cabernetSauvignon	browneFamilyVineyards	columbiaValley	2018	3.9	5.44	13.9	Family Vineyards Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/browne-family/
-68	cabernetSauvignon	browneFamilyVineyards	columbiaValley	2018	3.91	5.1	14	Heritage Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/browne-family/
-69	malbec	browneFamilyVineyards	columbiaValley	2017	3.86	5.5	12.3	Malbec	2020	https://www.preceptwine.com/our-wines/browne-family/
-70	merlot	browneFamilyVineyards	columbiaValley	2017	3.88	4.5	14.2	Merlot	2020	https://www.preceptwine.com/our-wines/browne-family/
-71	petitVerdot	browneFamilyVineyards	columbiaValley	2017	3.89	5.1	13.9	Petit Verdot	2020	https://www.preceptwine.com/our-wines/browne-family/
-72	bordeauxBlend	browneFamilyVineyards	columbiaValley	2017	3.78	5.2	14.11	Tribute Red Blend	2020	https://www.preceptwine.com/our-wines/browne-family/
-73	cabernetSauvignon	canoeRidge	columbiaValley	2018	3.94	4.92	14	Columbia Valley Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-74	merlot	canoeRidge	columbiaValley	2018	3.96	5.31	14	Columbia Valley Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-75	bordeauxBlend	canoeRidge	columbiaValley	2018	3.8	5.85	14.3	Columbia Valley Red Blend	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-76	cabernetSauvignon	canoeRidge	horseHeavenHills	2016	3.74	5.78	14	Reserve Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-77	merlot	canoeRidge	horseHeavenHills	2016	3.67	5.85	14	Reserve Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-78	cabernetSauvignon	canoeRidge	horseHeavenHills	2018	3.8	5.56	14	Expedition Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-79	malbec	canoeRidge	horseHeavenHills	2018	3.76	6.73	14	Expedition Malbec	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-80	merlot	canoeRidge	horseHeavenHills	2018	3.81	4.63	14	Expedition Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-81	bordeauxBlend	canoeRidge	horseHeavenHills	2018	3.84	4.75	14	Expedition Red Blend	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-82	merlot	canoeRidge	horseHeavenHills	2017	3.76	5.59	14	Explorer Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-83	bordeauxBlend	canoeRidge	horseHeavenHills	2016	3.7	5.83	14.4	Explorer Red Blend	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
-84	cabernetSauvignon	houseWine	columbiaValley	2018	3.86	5.58	13.3	Dark Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/house-wine/
-85	merlot	houseWine	columbiaValley	2018	3.89	5.53	14.1	Mountain Merlot	2020	https://www.preceptwine.com/our-wines/house-wine/
-86	cabernetSauvignon	houseWine	columbiaValley	2018	3.9	5.38	13.9	Steak House Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/house-wine/
-87	cabernetSauvignon	pendulum	columbiaValley	2018	3.83	5.3	13.8	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/pendulum/
-88	bordeauxBlend	pendulum	columbiaValley	2018	3.75	5.8	14	Red Blend	2020	https://www.preceptwine.com/our-wines/pendulum/
-89	cabernetSauvignon	sagelands	columbiaValley	2018	3.83	5.61	13.7	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/sagelands/
-90	cabernetSauvignon	sagelands	columbiaValley	2018	3.86	5.76	13.2	Dark Shadow Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/sagelands/
-91	merlot	sagelands	columbiaValley	2018	3.89	5.53	14.1	Merlot	2020	https://www.preceptwine.com/our-wines/sagelands/
-92	cabernetSauvignon	theHuntsman	columbiaValley	2017	3.93	5.16	13.2	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/the-huntsman/
-93	cabernetSauvignon	washingtonHills	columbiaValley	2018	3.83	5.61	13.7	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/washington-hills/
-94	merlot	washingtonHills	columbiaValley	2017	3.87	5.03	13.4	Merlot	2020	https://www.preceptwine.com/our-wines/washington-hills/
-95	cabernetSauvignon	waterBrook	columbiaValley	2018	3.95	5.1	14.3	Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/waterbrook/
-96	malbec	waterBrook	columbiaValley	2018	3.75	5.6	13.3	Malbec	2020	https://www.preceptwine.com/our-wines/waterbrook/
-97	bordeauxBlend	waterBrook	columbiaValley	2018	3.81	5.5	14	Melange Founder's Red Blend	2020	https://www.preceptwine.com/our-wines/waterbrook/
-98	merlot	waterBrook	columbiaValley	2018	3.86	4.6	14.5	Merlot	2020	https://www.preceptwine.com/our-wines/waterbrook/
-99	cabernetSauvignon	waterBrook	redMountain	2017	3.9	5.1	14.9	Red Mountain Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/waterbrook/
-100	cabernetSauvignon	waterBrook	columbiaValley	2017	3.93	5.7	14.3	Reserve Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/waterbrook/
-101	malbec	waterBrook	columbiaValley	2017	3.79	5.6	14	Reserve Malbec	2020	https://www.preceptwine.com/our-wines/waterbrook/
-102	merlot	waterBrook	columbiaValley	2017	3.71	5.3	14	Reserve Merlot	2020	https://www.preceptwine.com/our-wines/waterbrook/
-103	cabernetSauvignon	powers	wahlukeSlope	2016	3.85	6.5	14	Katherine Leone Vineyard Cabernet Sauvignon	2021	https://badgerpowers-shop.vintegrate.com/2016-Katherine-Leone-Cab-Sauvignon
-104	bordeauxBlend	powers	horseHeavenHills	2017	3.8	6.3	14	Horse Heaven Hills Red Blend	2021	https://badgerpowers-shop.vintegrate.com/2017-HHH-Red-Blend
-105	cabernetSauvignon	powers	wahlukeSlope	2017	3.79	6.5	14	Ravenscliff Cabernet Sauvignon	2021	https://badgerpowers-shop.vintegrate.com/2017-Ravenscliff-Cab-Sauvignon
-106	bordeauxBlend	chateauSteMichelle	columbiaValley	2018	3.86	5.6	13.5	Columbia Valley Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-cabernet-sauvignon/5637307326.p
-107	malbec	chateauSteMichelle	columbiaValley	2017	3.79	5.6	14.8	Limited Release Royal Slope Malbec	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2017-limited-release-royal-slope-malbec/5637224828.p
-108	merlot	chateauSteMichelle	horseHeavenHills	2016	3.78	5.4	14.5	Canoe Ridge Estate Merlot	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-canoe-ridge-estate-merlot/5637246578.p
-109	rhoneBlend	chateauSteMichelle	columbiaValley	2018	3.87	5.6	14.9	Limited Release Austral Red Wine	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-limited-release-austral-red-wine/5637284830.p
-110	syrah	chateauSteMichelle	yakimaValley	2018	3.8	6.2	14.5	Limited Release Syrano Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-limited-release-syrano-syrah/5637284831.p
-111	syrah	chateauSteMichelle	columbiaValley	2019	3.89	5.4	13.5	Columbia Valley Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2019-syrah/5637300576.p
-112	cabernetSauvignon	chateauSteMichelle	columbiaValley	2017	3.86	5.4	14.8	Ethos Reserve Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2017-ethos-reserve-cabernet-sauvignon/5637308081.p
-113	syrah	chateauSteMichelle	rattlesnakeHills	2016	3.69	5.9	14	Limited Release Syrano Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-syrano-syrah/5637166390.p
-114	rhoneBlend	chateauSteMichelle	columbiaValley	2016	3.87	5.3	15.2	Limited Release Austral Red Wine	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-austral-red-wine/5637166333.p
-115	cabernetSauvignon	chateauSteMichelle	columbiaValley	2018	3.85	5.5	14.5	Indian Wells Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-indian-wells-cabernet-sauvignon/5637302080.p
-116	sangiovese	chateauSteMichelle	horseHeavenHills	2016	3.83	5.6	14.5	Limited Release Sangiovese	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-sangiovese/5637166389.p
-117	bordeauxBlend	chateauSteMichelle	columbiaValley	2016	3.78	5.8	14.9	IMPETUS Red Wine	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-impetus-red-wine/5637166342.p
-118	cabernetSauvignon	chateauSteMichelle	horseHeavenHills	2017	3.85	5.4	14.5	Canoe Ridge Estate Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2017-canoe-ridge-estate-cabernet-sauvignon/5637280340.p
-119	counoise	chateauSteMichelle	horseHeavenHills	2016	3.87	4.6	16.2	Counoise	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-counoise/5637166337.p
-120	cabernetFranc	chateauSteMichelle	columbiaValley	2016	3.85	5.2	15.2	Limited Release Cold Creek Cabernet Franc	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-cold-creek-cabernet-franc/5637161225.p
-121	grenache	chateauSteMichelle	columbiaValley	2016	3.73	5.3	15	Limited Release Grenache	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-grenache/5637161220.p
-122	cabernetSauvignon	chateauSteMichelle	columbiaValley	2016	3.81	5.5	15.5	Druthers CS	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-druthers-cabernet-sauvignon/5637161223.p
-123	merlot	chateauSteMichelle	columbiaValley	2016	3.69	5.8	14.8	The Nod Merlot	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-%22the-nod%22-merlot/5637161226.p
-124	syrah	chateauSteMichelle	yakimaValley	2016	3.89	5.4	15	Boreal Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-boreal-syrah/5637161247.p
-125	cabernetSauvignon	henceCellars	columbiaValley	2016	3.95	7.4	14.25	Columbia Valley Cabernet Sauvignon	2021	https://hencecellars.com/2016-cabernet-sauvignon-2/
-126	malbec	henceCellars	wallawallaValley	2016	3.8	7.9	14.35	Malbec	2021	https://hencecellars.com/2016-malbec-3/
-127	petitVerdot	henceCellars	columbiaValley	2016	3.7	6.3	13.98	Petit Verdot	2021	https://hencecellars.com/2016-petit-verdot-3/
-128	malbec	airfieldEstates	yakimaValley	2019	3.74	6.2	14	Malbec	2021	https://www.airfieldwines.com/wine-shop/detail/2019-malbec/
-129	redBlend	airfieldEstates	yakimaValley	2019	3.67	6.4	14	Spitfire	2021	https://www.airfieldwines.com/wine-shop/detail/2019-spitfire/
-130	redBlend	airfieldEstates	yakimaValley	2019	3.98	5	14.1	Hellcat	2021	https://www.airfieldwines.com/wine-shop/detail/2019-hellcat/
-131	cabernetSauvignon	airfieldEstates	yakimaValley	2018	3.81	5.9	14.2	Reserve Cabernet Sauvignon	2021	https://www.airfieldwines.com/wine-shop/detail/2018-reserve-cabernet-sauvignon/
-132	bordeauxBlend	airfieldEstates	yakimaValley	2019	3.76	6	14.2	Bombshell Red	2021	https://www.airfieldwines.com/wine-shop/detail/2019-bombshell/
-133	merlot	airfieldEstates	yakimaValley	2017	3.89	6	14.3	Reserve Merlot	2021	https://www.airfieldwines.com/wine-shop/detail/2017-reserve-merlot/
-134	bordeauxBlend	airfieldEstates	yakimaValley	2018	3.87	5.7	14.1	Runway Red Blend	2021	https://www.airfieldwines.com/wine-shop/detail/2018-runway-red-blend/
-135	bordeauxBlend	airfieldEstates	yakimaValley	2018	3.75	6	14.3	Founders H. Lloyd	2021	https://www.airfieldwines.com/wine-shop/detail/2018-founders-h-lloyd/
-136	rhoneBlend	airfieldEstates	yakimaValley	2018	3.84	5.9	14.2	Founders Michael	2021	https://www.airfieldwines.com/wine-shop/detail/2018-founders-michael/
-137	syrah	airfieldEstates	yakimaValley	2018	3.8	5.6	14.4	Reserve Syrah	2021	https://www.airfieldwines.com/wine-shop/detail/2018-reserve-syrah/
-138	bordeauxBlend	airfieldEstates	yakimaValley	2018	3.74	6	14.2	Aviator	2021	https://www.airfieldwines.com/wine-shop/detail/2018-aviator/
-139	rhoneBlend	airfieldEstates	yakimaValley	2018	3.89	5.8	14	Mustang	2021	https://www.airfieldwines.com/wine-shop/detail/2018-mustang/
-140	merlot	airfieldEstates	yakimaValley	2019	3.8	6	14.3	Merlot	2021	https://www.airfieldwines.com/wine-shop/detail/2019-merlot/
-141	syrah	airfieldEstates	yakimaValley	2019	3.89	5.5	14.6	Syrah	2021	https://www.airfieldwines.com/wine-shop/detail/2019-syrah/
-142	bordeauxBlend	airfieldEstates	yakimaValley	2019	3.84	5.9	14.2	Dauntless	2021	https://www.airfieldwines.com/wine-shop/detail/2019-dauntless/
-143	syrah	pursuedByBear	columbiaValley	2017	3.94	5.2	14.2	Baby Bear	2021	https://www.pursuedbybearwine.com/2017-syrah.html
-144	syrah	pursuedByBear	columbiaValley	2016	3.91	6.1	14.5	Baby Bear	2021	https://www.pursuedbybearwine.com/2016-syrah.html
-145	cabernetSauvignon	pursuedByBear	columbiaValley	2018	3.69	6	14.2	Pursued By Bear	2021	https://www.pursuedbybearwine.com/2018-cabernet-sauvignon.html
-146	cabernetSauvignon	pursuedByBear	columbiaValley	2016	3.75	6.3	14.2	Pursued By Bear	2021	https://www.pursuedbybearwine.com/2016-cabernet-sauvignon.html
-147	bordeauxBlend	pursuedByBear	columbiaValley	2017	3.87	5.6	14.2	Bear Cub	2021	https://www.pursuedbybearwine.com/2017-bear-cub.html
-148	bordeauxBlend	pursuedByBear	columbiaValley	2016	3.84	6.5	14.2	Bear Cub	2021	https://www.pursuedbybearwine.com/2016-bear-cub.html
-149	cabernetSauvignon	pursuedByBear	wallawallaValley	2017	3.83	6.1	14.2	Twin Bear	2021	https://www.pursuedbybearwine.com/2017-twin-bear.html
-150	grenache	convergenceZoneCellars	redMountain	2019	3.55	4.8	14.7	Mistral Grenache	2021	https://www.czcellars.com/product/2019-Mistral
-151	mourvedre	convergenceZoneCellars	wahlukeSlope	2019	3.42	7.1	14.6	Fly Rod Mourvedre	2021	https://www.czcellars.com/product/2019-Fly-Rod-Mourvedre
-152	cabernetSauvignon	convergenceZoneCellars	yakimaValley	2018	3.8	6.6	14.3	Reserve Cabernet Sauvignon	2021	https://www.czcellars.com/product/2018-Reserve-Cabernet
-153	bordeauxBlend	convergenceZoneCellars	columbiaValley	2017	3.65	6	14.6	Storm Front	2021	https://www.czcellars.com/product/2017-Storm-Front
-154	cabernetSauvignon	convergenceZoneCellars	horseHeavenHills	2016	3.68	6.5	14.4	Squall Line	2021	https://www.czcellars.com/product/2016-Squall-Line
-155	bordeauxBlend	convergenceZoneCellars	columbiaValley	2017	3.85	6	14.7	Squall Line	2021	https://www.czcellars.com/product/2017-Squall-Line
-156	petitVerdot	convergenceZoneCellars	yakimaValley	2017	3.67	4.2	14.5	Dericho	2021	https://www.czcellars.com/product/2017-Dericho
-157	tempranillo	convergenceZoneCellars	snipesMountain	2018	4.05	5.3	14.1	Fly Rod Tempranillo	2021	https://www.czcellars.com/product/2018-Fly-Rod-Turcks-Tempranillo
-158	rhoneBlend	convergenceZoneCellars	columbiaValley	2017	3.75	6.0	14.7	Virga	2021	https://www.czcellars.com/product/2017-Virga
-159	rhoneBlend	convergenceZoneCellars	columbiaValley	2018	3.55	6.7	14.5	Virga	2021	https://www.czcellars.com/product/2018-Virga
-160	cabernetSauvignon	shackelfordWine	columbiaValley	2016	3.62	6.1	14.10	Cabernet Sauvignon	2021	https://shackelfordwine.orderport.net/product-details/0004/2016-Cabernet-Sauvignon
-161	cabernetSauvignon	shackelfordWine	columbiaValley	2017	3.62	6.1	14.10	Cabernet Sauvignon	2021	https://shackelfordwine.orderport.net/product-details/0025/2017-Cabernet-Sauvignon
-162	cabernetSauvignon	shackelfordWine	columbiaValley	2017	3.62	6.1	14.10	Special Selection Cabernet Sauvignon	2021	https://shackelfordwine.orderport.net/product-details/0026/2017-Special-Selection-Cabernet-Sauvignon
-163	cabernetFranc	shackelfordWine	columbiaValley	2017	3.82	5.8	15.00	Cabernet Franc	2021	https://shackelfordwine.orderport.net/product-details/0027/2017-Cabernet-Franc
-164	petitVerdot	shackelfordWine	columbiaValley	2017	3.87	6.2	14.70	Petit Verdot	2021	https://shackelfordwine.orderport.net/product-details/0028/2017-Petit-Verdot
-165	cabernetSauvignon	vibeCellars	horseHeavenHills	2018	3.72	6.4	14.8	Cabernet Sauvignon	2021	https://www.vibecellars.com/wine-list.html
-166	sangiovese	vibeCellars	yakimaValley	2018	3.44	6.2	14.8	Sangiovese	2021	https://www.vibecellars.com/wine-list.html
-167	syrah	vibeCellars	columbiaValley	2019	3.58	6.1	14.8	Syrah	2021	https://www.vibecellars.com/wine-list.html
-168	redBlend	vibeCellars	yakimaValley	2019	3.46	5.7	14.8	Gemelli Super Tuascan	2021	https://www.vibecellars.com/wine-list.html
-169	cabernetSauvignon	vibeCellars	horseHeavenHills	2019	3.56	6.1	14.8	Voodoo Blend	2021	https://www.vibecellars.com/wine-list.html
-170	cabernetSauvignon	vibeCellars	redMountain	2019	3.33	6.6	14.8	Wave Cabernet Sauvignon	2021	https://www.vibecellars.com/wine-list.html
-171	grenache	alexandriaNicoleCellars	horseHeavenHills	2019	3.69	5.9	14.2	Purple Reign Grenache	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/04/2019-Purple-Reign-Grenache-ADA.pdf
-172	merlot	alexandriaNicoleCellars	horseHeavenHills	2019	3.71	6.23	14.2	Gravity Merlot	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2019-Merlot-ADA.pdf
-173	bordeauxBlend	alexandriaNicoleCellars	horseHeavenHills	2019	3.71	5.98	14.2	Quarry Red Blend	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2019-Quarry-Butte-ADA.pdf
-174	syrah	alexandriaNicoleCellars	horseHeavenHills	2019	3.64	6.1	14.4	Block 17 Syrah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2019-Block-17-Syrah-ADA.pdf
-175	syrah	alexandriaNicoleCellars	horseHeavenHills	2019	3.72	6.52	14.2	Jet Black Syrah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2019-Jet-Black-Syrah-ADA.pdf
-176	tempranillo	alexandriaNicoleCellars	horseHeavenHills	2019	3.78	6.1	14.3	Big Shot Tempranillo	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2019-Big-Shot-Tempranillo-ADA.pdf
-177	cabernetSauvignon	alexandriaNicoleCellars	horseHeavenHills	2018	3.79	5.9	14.5	Cabernet Sauvignon	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/02/2018-Alderdale-Cabernet-Sauvignon-ADA.pdf
-178	cabernetFranc	alexandriaNicoleCellars	horseHeavenHills	2018	3.86	5.52	14.5	Wild One Cabernet Franc	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2018-Cabernet-Franc-ADA.pdf
-179	carmenere	alexandriaNicoleCellars	horseHeavenHills	2018	3.83	5.87	14.2	Carmenere	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2018-Carmenere-ADA.pdf
-180	counoise	alexandriaNicoleCellars	horseHeavenHills	2018	3.53	6.2	14.2	Counoise	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/04/2018-Counoise-ADA.pdf
-181	bordeauxBlend	alexandriaNicoleCellars	horseHeavenHills	2018	3.73	5.89	14.3	Destiny	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/04/2018-Destiny-ADA.pdf
-182	grenache	alexandriaNicoleCellars	horseHeavenHills	2018	3.64	6.7	14.5	Purple Reign Grenache	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/08/2018-Purple-Reign-Grenache-ADA.pdf
-183	malbec	alexandriaNicoleCellars	horseHeavenHills	2018	3.71	5.56	14.4	Mr. Popular Malbec	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/01/2018-Mr-Popular-Malbec-ADA.pdf
-184	merlot	alexandriaNicoleCellars	horseHeavenHills	2018	3.71	5.98	14.2	Gravity Merlot	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/02/2018-Merlot-ADA.pdf
-185	petitSirah	alexandriaNicoleCellars	horseHeavenHills	2018	3.72	5.5	14.6	Mr. Big Petite Sirah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/01/2018-Mr-Big-Petite-Sirah-ADA.pdf
-186	petitVerdot	alexandriaNicoleCellars	horseHeavenHills	2018	3.78	5.67	14.4	Little Big Man Petit Verdot	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/01/2018-Little-Big-Man-Petit-Verdot-ADA.pdf
-187	bordeauxBlend	alexandriaNicoleCellars	horseHeavenHills	2018	3.74	5.88	14.2	Quarry Butte Red Blend	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/11/2018-Quarry-Butte-ADA.pdf
-188	syrah	alexandriaNicoleCellars	horseHeavenHills	2018	3.68	5.7	14.4	Block 17 Syrah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/09/2018-Block-17-Syrah-ADA.pdf
-189	syrah	alexandriaNicoleCellars	horseHeavenHills	2018	3.72	6.3	14.2	Jet Black Syrah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/01/2018-Jet-Black-Syrah-ADA.pdf
-190	tempranillo	alexandriaNicoleCellars	horseHeavenHills	2018	3.75	6.1	14.3	Big Shot Tempranillo	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/08/2018-Big-Shot-Tempranillo-ADA.pdf
-191	cabernetFranc	alexandriaNicoleCellars	horseHeavenHills	2017	3.71	5.9	14.4	Wild One Cabernet Franc	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/08/2017-Cabernet-Franc-ADA.pdf
-192	cabernetSauvignon	alexandriaNicoleCellars	horseHeavenHills	2017	3.77	5.7	14.5	Cabernet Sauvignon	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/05/2017-Alderdale-Cabernet-Sauvignon-New.pdf
-193	carmenere	alexandriaNicoleCellars	horseHeavenHills	2017	3.69	5.9	14.2	Carmenere	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/09/2017-Carmenere-ADA.pdf
-194	counoise	alexandriaNicoleCellars	horseHeavenHills	2017	3.65	5.8	14.2	Counoise	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/10/2017-Counoise-1-ADA.pdf
-195	bordeauxBlend	alexandriaNicoleCellars	horseHeavenHills	2017	3.70	5.59	14.2	Destiny	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/ANC-TastingNote-2017Destiny_ada.pdf
-196	grenache	alexandriaNicoleCellars	horseHeavenHills	2017	3.76	5.8	14.2	Purple Reign Grenache	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2017-Purple-Reign-Grenache-new_ada.pdf
-197	malbec	alexandriaNicoleCellars	horseHeavenHills	2017	3.59	5.57	13.8	Mr. Popular Malbec	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/ANC-TastingNote-2017Malbec_ada.pdf
-198	petitSirah	alexandriaNicoleCellars	horseHeavenHills	2017	3.76	5.8	13.9	Mr. Big Petite Sirah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/08/2017-Mr-Big-Petite-Sirah-ADA.pdf
-199	petitVerdot	alexandriaNicoleCellars	horseHeavenHills	2017	3.6	5.67	NA	Little Big Man Petit Verdot	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/ANC-TastingNote-2017PetitVerdot_ada.pdf
-200	bordeauxBlend	alexandriaNicoleCellars	horseHeavenHills	2017	3.81	5.7	14.2	Quarry Butte Red Blend	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/04/2017-Quarry-Butte-ADA.pdf
-201	rhoneBlend	alexandriaNicoleCellars	horseHeavenHills	2017	3.61	6.2	14.2	Rock Star Red	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/05/2017-Rock-Star-Red-ADA-2.pdf
-202	syrah	alexandriaNicoleCellars	horseHeavenHills	2017	3.6	5.8	14.4	Block 17 Syrah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/ANC-TastingNote-2017Block17Syrah_ada.pdf
-203	tempranillo	alexandriaNicoleCellars	horseHeavenHills	2017	3.69	5.7	14.2	Tempranillo	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/ANC-TastingNote-2017Tempranillo_ada.pdf
-204	cabernetFranc	alexandriaNicoleCellars	horseHeavenHills	2016	3.68	5.5	14.4	Wild One Cabernet Franc	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/03/2016-Cabernet-Franc-New_ada.pdf
-205	carmenere	alexandriaNicoleCellars	horseHeavenHills	2016	3.71	6	14.2	Carmenere	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2016-Carmenere-new_ada.pdf
-206	counoise	alexandriaNicoleCellars	horseHeavenHills	2016	3.61	5.55	14.2	Counoise	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2016-Counoise-new_ada.pdf
-207	bordeauxBlend	alexandriaNicoleCellars	horseHeavenHills	2016	3.72	5.19	14.5	Destiny	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2016-Destiny-New1_ada.pdf
-208	grenache	alexandriaNicoleCellars	horseHeavenHills	2016	3.6	6.0	14.2	Purple Reign Grenache	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2016-Purple-Reign-Grenache_ada.pdf
-209	bordeauxBlend	alexandriaNicoleCellars	horseHeavenHills	2016	3.73	5.85	14.2	Quarry Butte Red Blend	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2016-Quarry-Butte-New_ada.pdf
-210	rhoneBlend	alexandriaNicoleCellars	horseHeavenHills	2016	3.65	5.9	14.2	Rock Star Red	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/09/2016-Rock-Star-Red-New.pdf
-211	cabernetSauvignon	domaineMagdalena	redMountain	2017	4.12	4.5	13.0	Magdalena Vineyard Cabernet Sauvignon	2021	https://www.domainemagdalena.com/the-wine-2
+identifier	variety	winery	AVA	vintage	pH	titratableAcidity	ethanol	price_USD	nCases	wineID	collectionYear	sourceDomain
+1	Merlot	Chateau Ste Michelle	Columbia Valley	2015	3.91	5.1	15		1329	The Nod Merlot	2020	https://www.ste-michelle.com
+2	Cabernet Sauvignon	Chateau Ste Michelle	Wahluke Slope	2016	3.86	5.9	14.8		974	Block 9 Cabernet Sauvignon	2020	https://www.ste-michelle.com
+3	Cabernet Sauvignon	Chateau Ste Michelle	Horse Heaven Hills	2016	3.8	5.5	14.6		1391	Cabernet Sauvignon Horse Heaven Hills	2020	https://www.ste-michelle.com
+4	Cabernet Sauvignon	Chateau Ste Michelle	Columbia Valley	2015	3.88	5.6	14.8		1110	Rich Wheeler Block CS	2020	https://www.ste-michelle.com
+5	Cabernet Sauvignon	Chateau Ste Michelle	Columbia Valley	2015	3.82	5.4	15.1		420	Druthers CS	2020	https://www.ste-michelle.com
+6	Bordeaux Blend	Chateau Ste Michelle	Columbia Valley	2015	3.85	5.5	14.5		2250	Artist Series CS	2020	https://www.ste-michelle.com
+7	Cabernet Franc	Chateau Ste Michelle	Columbia Valley	2015	3.95	5	15.1		1202	Cold Creek Cabernet Franc	2020	https://www.ste-michelle.com
+8	Bordeaux Blend	Chateau Ste Michelle	Horse Heaven Hills	2016	3.7	5.6	14.5		783	Canoe Ridge Red Blend	2020	https://www.ste-michelle.com
+9	Cabernet Sauvignon	Chateau Ste Michelle	Columbia Valley	2015	3.8	5.7	14.5		9900	Cold Creek Cabernet Sauvignon	2020	https://www.ste-michelle.com
+10	Cabernet Sauvignon	Chateau Ste Michelle	Red Mountain	2016	3.83	5.6	14.9		3051	Red Mountain Cabernet Sauvignon	2020	https://www.ste-michelle.com
+11	Merlot	Chateau Ste Michelle	Columbia Valley	2017	3.78	5.6	14.5			Indian Wells Merlot	2020	https://www.ste-michelle.com
+12	Cabernet Sauvignon	Chateau Ste Michelle	Columbia Valley	2017	3.86	5.5	14.5			Indian Wells Cabernet Sauvignon	2020	https://www.ste-michelle.com
+13	Cabernet Sauvignon	Chateau Ste Michelle	Columbia Valley	2017	3.83	6.1	13.5			Columbia Valley Cabernet Sauvignon	2020	https://www.ste-michelle.com
+14	Cabernet Sauvignon	Chateau Ste Michelle	Columbia Valley	2016	3.74	5.6	14.5		4041	Artist Series Guardian	2020	https://www.ste-michelle.com
+15	Bordeaux Blend	Chateau Ste Michelle	Columbia Valley	2016	3.69	5.8	14.5		987	Cold Creek Red Blend	2020	https://www.ste-michelle.com
+16	Bordeaux Blend	Kiona	Red Mountain	2016	3.82	5.2	14.8			Estate Red Mountain Reserve	2020	https://www.kionawine.com
+17	Cabernet Sauvignon	Kiona	Red Mountain	2016	3.8	5.4	14.5			Estate Red Mountain Cabernet Sauvignon	2020	https://www.kionawine.com
+18	Merlot	Kiona	Red Mountain	2017	3.59	5.9	14.5			Estate Red Mountain Merlot	2020	https://www.kionawine.com
+19	Malbec	Kiona	Red Mountain	2017	3.8	5	14.5			Estate Red Mountain Malbec	2020	https://www.kionawine.com
+20	Cabernet Sauvignon	Kiona	Columbia Valley	2016	3.8	5.6	13.9			Columbia Valley Estates Cuvee	2020	https://www.kionawine.com
+21	Cabernet Sauvignon	14 Hands	Horse Heaven Hills	2016	3.79	5.7	14.5		887	Reserve Cabernet Sauvignon	2020	https://www.14hands.com
+22	Merlot	14 Hands	Horse Heaven Hills	2016	3.86	5.1	15		850	Reserve Merlot	2020	https://www.14hands.com
+23	Bordeaux Blend	14 Hands	Horse Heaven Hills	2016	3.81	5.7	14.5		852	Reserve Red Blend	2020	https://www.14hands.com
+24	Merlot	14 Hands	Columbia Valley	2016	3.73	5.4	13.5			14 Hands Merlot	2020	https://www.14hands.com
+25	Bordeaux Blend	14 Hands	Horse Heaven Hills	2016	3.81	5.4	15		334	Reserve Cabernet Franc-Merlot	2020	https://www.14hands.com
+26	Petit Verdot	14 Hands	Horse Heaven Hills	2015	3.81	5.8	14.5		252	Reserve Petit Verdot	2020	https://www.14hands.com
+27	Bordeaux Blend	14 Hands	Horse Heaven Hills	2015	3.76	5.7	14.5		760	Reserve Red Blend	2020	https://www.14hands.com
+28	Merlot	14 Hands	Horse Heaven Hills	2015	3.76	5.6	14.9		764	Reserve Merlot	2020	https://www.14hands.com
+29	Bordeaux Blend	14 Hands	Columbia Valley	2015	3.75	5.4	14.5		151	Vintage Series Red Wine Blend	2020	https://www.14hands.com
+30	Bordeaux Blend	Sparkman	Columbia Valley	2018	3.86	5.7	14	25.000	713	Kindred Red Blend	2020	https://sparkmancellars.com
+31	Cabernet Sauvignon	Sparkman	Yakima Valley	2017	3.84	5.4	14.5	65.000	312	Rainmaker Cabernet Sauvignon	2020	https://sparkmancellars.com
+32	Petit Verdot	Sparkman	Yakima Valley	2017	4.06	5.1	14.5		115	Underworld Petit Verdot	2020	https://sparkmancellars.com
+33	Cabernet Sauvignon	Sparkman	Columbia Valley	2018	3.81	5.2	14.5	32.000	2483	Holler Cabernet Sauvignon	2020	https://sparkmancellars.com
+34	Bordeaux Blend	Sparkman	Columbia Valley	2016	3.85	5.7	14.5			Ruby Leigh Merlot Blend	2020	https://sparkmancellars.com
+35	Bordeaux Blend	Sparkman	Columbia Valley	2016	3.85	5.8	14.5			Stella Mae Cabernet Sauvignon blend	2020	https://sparkmancellars.com
+36	Merlot	Sparkman	Columbia Valley	2017	3.8	5.1	14.5	55.000	216	Outlaw Merlow	2020	https://sparkmancellars.com
+37	Cabernet Franc	Sparkman	Yakima Valley	2017	3.96	4.6	14.5			Yonder Cabernet Franc	2020	https://sparkmancellars.com
+38	Malbec	Sparkman	Red Mountain	2017	3.97	5.7	14.5	48.000	325	Preposterous Malbec	2020	https://sparkmancellars.com
+39	Cabernet Sauvignon	Sparkman	Red Mountain	2016	3.92	5.7	14.5			Kingpin Cabernet Sauvignon	2020	https://sparkmancellars.com
+40	Cabernet Sauvignon	Sparkman	Columbia Valley	2016	3.94	5.8	14.5			Evermore Old Vines Cabernet Sauvignon	2020	https://sparkmancellars.com
+41	Cabernet Sauvignon	Novelty Hill	Columbia Valley	2017	3.78	5.5	14.4		570	Stillwater Creek Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
+42	Cabernet Sauvignon	Januik	Red Mountain	2017	3.75	5.5	NA		471	Ciel du Cheval Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
+43	Merlot	Novelty Hill	Columbia Valley	2016	3.72	5.5	14.4		551	Stillwater Creek Merlot	2020	https://www.noveltyhilljanuik.com
+44	Merlot	Januik	Red Mountain	2017	3.66	5.2	NA		293	Klipsun Merlot	2020	https://www.noveltyhilljanuik.com
+45	Malbec	Novelty Hill	Columbia Valley	2017	3.68	5.6	14.4			Stillwater Creek Malbec	2020	https://www.noveltyhilljanuik.com
+46	Merlot	Januik	Columbia Valley	2017	3.7	5.4	NA		577	Columbia Valley Merlot	2020	https://www.noveltyhilljanuik.com
+47	Cabernet Franc	Januik	Wahluke Slope	2017	3.72	5.4	14.4			Weinbau Vineyard Cabernet Franc	2020	https://www.noveltyhilljanuik.com
+48	Cabernet Sauvignon	Novelty Hill	Columbia Valley	2017	3.74	5.4	14.4		5109	Columbia Valley Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
+49	Merlot	Novelty Hill	Columbia Valley	2017	3.7	5.2	14.4		3902	Columbia Valley Merlot	2020	https://www.noveltyhilljanuik.com
+50	Bordeaux Blend	Novelty Hill	Columbia Valley	2018	3.74	5.5	14.4			Columbia Valley R.S.R Red Wine	2020	https://www.noveltyhilljanuik.com
+51	Merlot	Januik	Columbia Valley	2016	3.7	5.4	NA			Champoux Vineyard Merlot	2020	https://www.noveltyhilljanuik.com
+52	Cabernet Sauvignon	Januik	Red Mountain	2017	3.78	5.6	NA			Red Mountain Cabernet Sauvignon	2020	https://www.noveltyhilljanuik.com
+53	Cabernet Sauvignon	Abeja	Columbia Valley	2017	3.84	5.4	14.5	60.000	2588	Columbia Valley Cabernet Sauvignon	2020	https://www.abeja.net
+54	Merlot	Abeja	Columbia Valley	2018	3.71	5.1	14.5	50.000	728	Columbia Valley Merlot	2020	https://www.abeja.net
+55	Cabernet Franc	Abeja	Walla Walla Valley	2018	3.87	5	14.5	80.000	169	Heather Hill Cabernet Franc	2020	https://www.abeja.net
+56	Cabernet Sauvignon	Abeja	Walla Walla Valley	2017	3.85	5.85	14.5	75.000	532	Heather Hill Cabernet Sauvignon	2020	https://www.abeja.net
+57	Bordeaux Blend	Abeja	Washington State	2018	3.84	5.62	14.2	34.000		Beekeeper's Blend	2020	https://www.abeja.net
+58	Cabernet Sauvignon	Apex Cellars	Columbia Valley	2015	3.59	6.18	14.3			Columbia Valley Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/apex/
+59	Cabernet Sauvignon	Apex Cellars	Red Mountain	2015	3.76	5.53	12.8			Red Mountain Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/apex/
+60	Cabernet Sauvignon	4 Cellars	Columbia Valley	2017	3.9	5.44	13.9			4 Cellars Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/4-cellars/
+61	Cabernet Sauvignon	Alder Ridge	Horse Heaven Hills	2016	3.56	6.75	14.7			Alder Ridge Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/alder-ridge/
+62	Cabernet Sauvignon	Alder Ridge	horseHeavenHills/Yakima	2017	3.9	6.2	13.8			Six Prong Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/alder-ridge/
+63	Cabernet Sauvignon	Browne Family Vineyards	Columbia Valley	2015	3.86	5.9	15.4			Bitner Red Blend	2020	https://www.preceptwine.com/our-wines/browne-family/
+64	Cabernet Franc	Browne Family Vineyards	Columbia Valley	2017	3.79	5	14			Cabernet Franc	2020	https://www.preceptwine.com/our-wines/browne-family/
+65	Cabernet Sauvignon	Browne Family Vineyards	Columbia Valley	2018	3.89	5.3	14			Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/browne-family/
+66	Merlot	Browne Family Vineyards	Walla Walla Valley	2015	3.91	5	14.5		536	Estate Merlot	2020	https://www.preceptwine.com/our-wines/browne-family/
+67	Cabernet Sauvignon	Browne Family Vineyards	Columbia Valley	2018	3.9	5.44	13.9			Family Vineyards Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/browne-family/
+68	Cabernet Sauvignon	Browne Family Vineyards	Columbia Valley	2018	3.91	5.1	14			Heritage Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/browne-family/
+69	Malbec	Browne Family Vineyards	Columbia Valley	2017	3.86	5.5	12.3			Malbec	2020	https://www.preceptwine.com/our-wines/browne-family/
+70	Merlot	Browne Family Vineyards	Columbia Valley	2017	3.88	4.5	14.2			Merlot	2020	https://www.preceptwine.com/our-wines/browne-family/
+71	Petit Verdot	Browne Family Vineyards	Columbia Valley	2017	3.89	5.1	13.9			Petit Verdot	2020	https://www.preceptwine.com/our-wines/browne-family/
+72	Bordeaux Blend	Browne Family Vineyards	Columbia Valley	2017	3.78	5.2	14.11			Tribute Red Blend	2020	https://www.preceptwine.com/our-wines/browne-family/
+73	Cabernet Sauvignon	Canoe Ridge	Columbia Valley	2018	3.94	4.92	14			Columbia Valley Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+74	Merlot	Canoe Ridge	Columbia Valley	2018	3.96	5.31	14			Columbia Valley Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+75	Bordeaux Blend	Canoe Ridge	Columbia Valley	2018	3.8	5.85	14.3			Columbia Valley Red Blend	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+76	Cabernet Sauvignon	Canoe Ridge	Horse Heaven Hills	2016	3.74	5.78	14			Reserve Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+77	Merlot	Canoe Ridge	Horse Heaven Hills	2016	3.67	5.85	14			Reserve Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+78	Cabernet Sauvignon	Canoe Ridge	Horse Heaven Hills	2018	3.8	5.56	14			Expedition Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+79	Malbec	Canoe Ridge	Horse Heaven Hills	2018	3.76	6.73	14			Expedition Malbec	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+80	Merlot	Canoe Ridge	Horse Heaven Hills	2018	3.81	4.63	14			Expedition Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+81	Bordeaux Blend	Canoe Ridge	Horse Heaven Hills	2018	3.84	4.75	14			Expedition Red Blend	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+82	Merlot	Canoe Ridge	Horse Heaven Hills	2017	3.76	5.59	14			Explorer Merlot	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+83	Bordeaux Blend	Canoe Ridge	Horse Heaven Hills	2016	3.7	5.83	14.4			Explorer Red Blend	2020	https://www.preceptwine.com/our-wines/canoe-ridge/
+84	Cabernet Sauvignon	House Wine	Columbia Valley	2018	3.86	5.58	13.3			Dark Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/house-wine/
+85	Merlot	House Wine	Columbia Valley	2018	3.89	5.53	14.1			Mountain Merlot	2020	https://www.preceptwine.com/our-wines/house-wine/
+86	Cabernet Sauvignon	House Wine	Columbia Valley	2018	3.9	5.38	13.9			Steak House Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/house-wine/
+87	Cabernet Sauvignon	Pendulum	Columbia Valley	2018	3.83	5.3	13.8			Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/pendulum/
+88	Bordeaux Blend	Pendulum	Columbia Valley	2018	3.75	5.8	14			Red Blend	2020	https://www.preceptwine.com/our-wines/pendulum/
+89	Cabernet Sauvignon	Sagelands	Columbia Valley	2018	3.83	5.61	13.7			Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/sagelands/
+90	Cabernet Sauvignon	Sagelands	Columbia Valley	2018	3.86	5.76	13.2			Dark Shadow Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/sagelands/
+91	Merlot	Sagelands	Columbia Valley	2018	3.89	5.53	14.1			Merlot	2020	https://www.preceptwine.com/our-wines/sagelands/
+92	Cabernet Sauvignon	The Huntsman	Columbia Valley	2017	3.93	5.16	13.2			Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/the-huntsman/
+93	Cabernet Sauvignon	Washington Hills	Columbia Valley	2018	3.83	5.61	13.7			Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/washington-hills/
+94	Merlot	Washington Hills	Columbia Valley	2017	3.87	5.03	13.4			Merlot	2020	https://www.preceptwine.com/our-wines/washington-hills/
+95	Cabernet Sauvignon	Water Brook	Columbia Valley	2018	3.95	5.1	14.3			Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/waterbrook/
+96	Malbec	Water Brook	Columbia Valley	2018	3.75	5.6	13.3			Malbec	2020	https://www.preceptwine.com/our-wines/waterbrook/
+97	Bordeaux Blend	Water Brook	Columbia Valley	2018	3.81	5.5	14			Melange Founder's Red Blend	2020	https://www.preceptwine.com/our-wines/waterbrook/
+98	Merlot	Water Brook	Columbia Valley	2018	3.86	4.6	14.5			Merlot	2020	https://www.preceptwine.com/our-wines/waterbrook/
+99	Cabernet Sauvignon	Water Brook	Red Mountain	2017	3.9	5.1	14.9			Red Mountain Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/waterbrook/
+100	Cabernet Sauvignon	Water Brook	Columbia Valley	2017	3.93	5.7	14.3			Reserve Cabernet Sauvignon	2020	https://www.preceptwine.com/our-wines/waterbrook/
+101	Malbec	Water Brook	Columbia Valley	2017	3.79	5.6	14			Reserve Malbec	2020	https://www.preceptwine.com/our-wines/waterbrook/
+102	Merlot	Water Brook	Columbia Valley	2017	3.71	5.3	14			Reserve Merlot	2020	https://www.preceptwine.com/our-wines/waterbrook/
+103	Cabernet Sauvignon	Powers	Wahluke Slope	2016	3.85	6.5	14	35.000	445	Katherine Leone Vineyard Cabernet Sauvignon	2021	https://badgerpowers-shop.vintegrate.com/2016-Katherine-Leone-Cab-Sauvignon
+104	Bordeaux Blend	Powers	Horse Heaven Hills	2017	3.8	6.3	14	25.000	336	Horse Heaven Hills Red Blend	2021	https://badgerpowers-shop.vintegrate.com/2017-HHH-Red-Blend
+105	Cabernet Sauvignon	Powers	Wahluke Slope	2017	3.79	6.5	14	40.000	499	Ravenscliff Cabernet Sauvignon	2021	https://badgerpowers-shop.vintegrate.com/2017-Ravenscliff-Cab-Sauvignon
+106	Bordeaux Blend	Chateau Ste Michelle	Columbia Valley	2018	3.86	5.6	13.5			Columbia Valley Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-cabernet-sauvignon/5637307326.p
+107	Malbec	Chateau Ste Michelle	Columbia Valley	2017	3.79	5.6	14.8			Limited Release Royal Slope Malbec	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2017-limited-release-royal-slope-malbec/5637224828.p
+108	Merlot	Chateau Ste Michelle	Horse Heaven Hills	2016	3.78	5.4	14.5		3500	Canoe Ridge Estate Merlot	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-canoe-ridge-estate-merlot/5637246578.p
+109	Rhone Blend	Chateau Ste Michelle	Columbia Valley	2018	3.87	5.6	14.9		1421	Limited Release Austral Red Wine	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-limited-release-austral-red-wine/5637284830.p
+110	Syrah	Chateau Ste Michelle	Yakima Valley	2018	3.8	6.2	14.5		1062	Limited Release Syrano Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-limited-release-syrano-syrah/5637284831.p
+111	Syrah	Chateau Ste Michelle	Columbia Valley	2019	3.89	5.4	13.5			Columbia Valley Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2019-syrah/5637300576.p
+112	Cabernet Sauvignon	Chateau Ste Michelle	Columbia Valley	2017	3.86	5.4	14.8			Ethos Reserve Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2017-ethos-reserve-cabernet-sauvignon/5637308081.p
+113	Syrah	Chateau Ste Michelle	Rattlesnake Hills	2016	3.69	5.9	14		502	Limited Release Syrano Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-syrano-syrah/5637166390.p
+114	Rhone Blend	Chateau Ste Michelle	Columbia Valley	2016	3.87	5.3	15.2		1061	Limited Release Austral Red Wine	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-austral-red-wine/5637166333.p
+115	Cabernet Sauvignon	Chateau Ste Michelle	Columbia Valley	2018	3.85	5.5	14.5			Indian Wells Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2018-indian-wells-cabernet-sauvignon/5637302080.p
+116	Sangiovese	Chateau Ste Michelle	Horse Heaven Hills	2016	3.83	5.6	14.5		703	Limited Release Sangiovese	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-sangiovese/5637166389.p
+117	Bordeaux Blend	Chateau Ste Michelle	Columbia Valley	2016	3.78	5.8	14.9		472	IMPETUS Red Wine	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-impetus-red-wine/5637166342.p
+118	Cabernet Sauvignon	Chateau Ste Michelle	Horse Heaven Hills	2017	3.85	5.4	14.5			Canoe Ridge Estate Cabernet Sauvignon	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2017-canoe-ridge-estate-cabernet-sauvignon/5637280340.p
+119	Counoise	Chateau Ste Michelle	Horse Heaven Hills	2016	3.87	4.6	16.2		456	Counoise	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-counoise/5637166337.p
+120	Cabernet Franc	Chateau Ste Michelle	Columbia Valley	2016	3.85	5.2	15.2		1602	Limited Release Cold Creek Cabernet Franc	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-cold-creek-cabernet-franc/5637161225.p
+121	Grenache	Chateau Ste Michelle	Columbia Valley	2016	3.73	5.3	15		1092	Limited Release Grenache	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-grenache/5637161220.p
+122	Cabernet Sauvignon	Chateau Ste Michelle	Columbia Valley	2016	3.81	5.5	15.5		475	Druthers CS	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-druthers-cabernet-sauvignon/5637161223.p
+123	Merlot	Chateau Ste Michelle	Columbia Valley	2016	3.69	5.8	14.8		1209	The Nod Merlot	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-%22the-nod%22-Merlot/5637161226.p
+124	Syrah	Chateau Ste Michelle	Yakima Valley	2016	3.89	5.4	15		523	Boreal Syrah	2021	https://www.ste-michelle.com/chateau-ste-michelle/wine-shop/all-wine/2016-limited-release-boreal-syrah/5637161247.p
+125	Cabernet Sauvignon	Hence Cellars	Columbia Valley	2016	3.95	7.4	14.25	30.000	125	Columbia Valley Cabernet Sauvignon	2021	https://hencecellars.com/2016-cabernet-sauvignon-2/
+126	Malbec	Hence Cellars	Walla Walla Valley	2016	3.8	7.9	14.35	30.000	125	Malbec	2021	https://hencecellars.com/2016-malbec-3/
+127	Petit Verdot	Hence Cellars	Columbia Valley	2016	3.7	6.3	13.98	35.000	125	Petit Verdot	2021	https://hencecellars.com/2016-petit-verdot-3/
+128	Malbec	Airfield Estates	Yakima Valley	2019	3.74	6.2	14		257	Malbec	2021	https://www.airfieldwines.com/wine-shop/detail/2019-malbec/
+129	Red Blend	Airfield Estates	Yakima Valley	2019	3.67	6.4	14		269	Spitfire	2021	https://www.airfieldwines.com/wine-shop/detail/2019-spitfire/
+130	Red Blend	Airfield Estates	Yakima Valley	2019	3.98	5	14.1		370	Hellcat	2021	https://www.airfieldwines.com/wine-shop/detail/2019-hellcat/
+131	Cabernet Sauvignon	Airfield Estates	Yakima Valley	2018	3.81	5.9	14.2		465	Reserve Cabernet Sauvignon	2021	https://www.airfieldwines.com/wine-shop/detail/2018-reserve-cabernet-sauvignon/
+132	Bordeaux Blend	Airfield Estates	Yakima Valley	2019	3.76	6	14.2			Bombshell Red	2021	https://www.airfieldwines.com/wine-shop/detail/2019-bombshell/
+133	Merlot	Airfield Estates	Yakima Valley	2017	3.89	6	14.3		295	Reserve Merlot	2021	https://www.airfieldwines.com/wine-shop/detail/2017-reserve-merlot/
+134	Bordeaux Blend	Airfield Estates	Yakima Valley	2018	3.87	5.7	14.1		490	Runway Red Blend	2021	https://www.airfieldwines.com/wine-shop/detail/2018-runway-red-blend/
+135	Bordeaux Blend	Airfield Estates	Yakima Valley	2018	3.75	6	14.3		248	Founders H. Lloyd	2021	https://www.airfieldwines.com/wine-shop/detail/2018-founders-h-lloyd/
+136	Rhone Blend	Airfield Estates	Yakima Valley	2018	3.84	5.9	14.2		250	Founders Michael	2021	https://www.airfieldwines.com/wine-shop/detail/2018-founders-michael/
+137	Syrah	Airfield Estates	Yakima Valley	2018	3.8	5.6	14.4		487	Reserve Syrah	2021	https://www.airfieldwines.com/wine-shop/detail/2018-reserve-syrah/
+138	Bordeaux Blend	Airfield Estates	Yakima Valley	2018	3.74	6	14.2		489	Aviator	2021	https://www.airfieldwines.com/wine-shop/detail/2018-aviator/
+139	Rhone Blend	Airfield Estates	Yakima Valley	2018	3.89	5.8	14		612	Mustang	2021	https://www.airfieldwines.com/wine-shop/detail/2018-mustang/
+140	Merlot	Airfield Estates	Yakima Valley	2019	3.8	6	14.3		1829	Merlot	2021	https://www.airfieldwines.com/wine-shop/detail/2019-merlot/
+141	Syrah	Airfield Estates	Yakima Valley	2019	3.89	5.5	14.6		1326	Syrah	2021	https://www.airfieldwines.com/wine-shop/detail/2019-syrah/
+142	Bordeaux Blend	Airfield Estates	Yakima Valley	2019	3.84	5.9	14.2		627	Dauntless	2021	https://www.airfieldwines.com/wine-shop/detail/2019-dauntless/
+143	Syrah	Pursued By Bear	Columbia Valley	2017	3.94	5.2	14.2		373	Baby Bear	2021	https://www.pursuedbybearwine.com/2017-syrah.html
+144	Syrah	Pursued By Bear	Columbia Valley	2016	3.91	6.1	14.5		387	Baby Bear	2021	https://www.pursuedbybearwine.com/2016-syrah.html
+145	Cabernet Sauvignon	Pursued By Bear	Columbia Valley	2018	3.69	6	14.2		569	Pursued By Bear	2021	https://www.pursuedbybearwine.com/2018-cabernet-sauvignon.html
+146	Cabernet Sauvignon	Pursued By Bear	Columbia Valley	2016	3.75	6.3	14.2		491	Pursued By Bear	2021	https://www.pursuedbybearwine.com/2016-cabernet-sauvignon.html
+147	Bordeaux Blend	Pursued By Bear	Columbia Valley	2017	3.87	5.6	14.2		830	Bear Cub	2021	https://www.pursuedbybearwine.com/2017-bear-cub.html
+148	Bordeaux Blend	Pursued By Bear	Columbia Valley	2016	3.84	6.5	14.2		881	Bear Cub	2021	https://www.pursuedbybearwine.com/2016-bear-cub.html
+149	Cabernet Sauvignon	Pursued By Bear	Walla Walla Valley	2017	3.83	6.1	14.2		93	Twin Bear	2021	https://www.pursuedbybearwine.com/2017-twin-bear.html
+150	Grenache	Convergence Zone Cellars	Red Mountain	2019	3.55	4.8	14.7	33.000	71	Mistral Grenache	2021	https://www.czcellars.com/product/2019-Mistral
+151	Mourvedre	Convergence Zone Cellars	Wahluke Slope	2019	3.42	7.1	14.6	33.000	70	Fly Rod Mourvedre	2021	https://www.czcellars.com/product/2019-Fly-Rod-Mourvedre
+152	Cabernet Sauvignon	Convergence Zone Cellars	Yakima Valley	2018	3.8	6.6	14.3	49.000	25	Reserve Cabernet Sauvignon	2021	https://www.czcellars.com/product/2018-Reserve-Cabernet
+153	Bordeaux Blend	Convergence Zone Cellars	Columbia Valley	2017	3.65	6	14.6	29.000	95	Storm Front	2021	https://www.czcellars.com/product/2017-Storm-Front
+154	Cabernet Sauvignon	Convergence Zone Cellars	Horse Heaven Hills	2016	3.68	6.5	14.4	35.000	98	Squall Line	2021	https://www.czcellars.com/product/2016-Squall-Line
+155	Bordeaux Blend	Convergence Zone Cellars	Columbia Valley	2017	3.85	6	14.7	35.000	73	Squall Line	2021	https://www.czcellars.com/product/2017-Squall-Line
+156	Petit Verdot	Convergence Zone Cellars	Yakima Valley	2017	3.67	4.2	14.5	39.000	22	Dericho	2021	https://www.czcellars.com/product/2017-Dericho
+157	Tempranillo	Convergence Zone Cellars	Snipes Mountain	2018	4.05	5.3	14.1	30.000	86	Fly Rod Tempranillo	2021	https://www.czcellars.com/product/2018-Fly-Rod-Turcks-Tempranillo
+158	Rhone Blend	Convergence Zone Cellars	Columbia Valley	2017	3.75	6	14.7	33.000	79	Virga	2021	https://www.czcellars.com/product/2017-Virga
+159	Rhone Blend	Convergence Zone Cellars	Columbia Valley	2018	3.55	6.7	14.5	33.000	79	Virga	2021	https://www.czcellars.com/product/2018-Virga
+160	Cabernet Sauvignon	Shackelford Wine	Columbia Valley	2016	3.62	6.1	14.1	30.000	88	Cabernet Sauvignon	2021	https://shackelfordwine.orderport.net/product-details/0004/2016-Cabernet-Sauvignon
+161	Cabernet Sauvignon	Shackelford Wine	Columbia Valley	2017	3.62	6.1	14.1	30.000	47	Cabernet Sauvignon	2021	https://shackelfordwine.orderport.net/product-details/0025/2017-Cabernet-Sauvignon
+162	Cabernet Sauvignon	Shackelford Wine	Columbia Valley	2017	3.62	6.1	14.1	36.000	72	Special Selection Cabernet Sauvignon	2021	https://shackelfordwine.orderport.net/product-details/0026/2017-Special-Selection-Cabernet-Sauvignon
+163	Cabernet Franc	Shackelford Wine	Columbia Valley	2017	3.82	5.8	15	32.000	29	Cabernet Franc	2021	https://shackelfordwine.orderport.net/product-details/0027/2017-Cabernet-Franc
+164	Petit Verdot	Shackelford Wine	Columbia Valley	2017	3.87	6.2	14.7	32.000	46	Petit Verdot	2021	https://shackelfordwine.orderport.net/product-details/0028/2017-Petit-Verdot
+165	Cabernet Sauvignon	Vibe Cellars	Horse Heaven Hills	2018	3.72	6.4	14.8	44.00		Cabernet Sauvignon	2021	https://www.vibecellars.com/wine-list.html
+166	Sangiovese	Vibe Cellars	Yakima Valley	2018	3.44	6.2	14.8	NA		Sangiovese	2021	https://www.vibecellars.com/wine-list.html
+167	Syrah	Vibe Cellars	Columbia Valley	2019	3.58	6.1	14.8	36.00		Syrah	2021	https://www.vibecellars.com/wine-list.html
+168	Red Blend	Vibe Cellars	Yakima Valley	2019	3.46	5.7	14.8	40.00		Gemelli Super Tuascan	2021	https://www.vibecellars.com/wine-list.html
+169	Cabernet Sauvignon	Vibe Cellars	Horse Heaven Hills	2019	3.56	6.1	14.8	40.00		Voodoo Blend	2021	https://www.vibecellars.com/wine-list.html
+170	Cabernet Sauvignon	Vibe Cellars	Red Mountain	2019	3.33	6.6	14.8	45.00		Wave Cabernet Sauvignon	2021	https://www.vibecellars.com/wine-list.html
+171	Grenache	Alexandria Nicole Cellars	Horse Heaven Hills	2019	3.69	5.9	14.2	42.00		Purple Reign Grenache	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/04/2019-Purple-Reign-Grenache-ADA.pdf
+172	Merlot	Alexandria Nicole Cellars	Horse Heaven Hills	2019	3.71	6.23	14.2	26.00		Gravity Merlot	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2019-Merlot-ADA.pdf
+173	Bordeaux Blend	Alexandria Nicole Cellars	Horse Heaven Hills	2019	3.71	5.98	14.2	26.00		Quarry Red Blend	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2019-Quarry-Butte-ADA.pdf
+174	Syrah	Alexandria Nicole Cellars	Horse Heaven Hills	2019	3.64	6.1	14.4	45.00		Block 17 Syrah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2019-Block-17-Syrah-ADA.pdf
+175	Syrah	Alexandria Nicole Cellars	Horse Heaven Hills	2019	3.72	6.52	14.2	28.00		Jet Black Syrah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2019-Jet-Black-Syrah-ADA.pdf
+176	Tempranillo	Alexandria Nicole Cellars	Horse Heaven Hills	2019	3.78	6.1	14.3	55.00		Big Shot Tempranillo	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2019-Big-Shot-Tempranillo-ADA.pdf
+177	Cabernet Sauvignon	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.79	5.9	14.5	42.00		Cabernet Sauvignon	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/02/2018-Alderdale-Cabernet-Sauvignon-ADA.pdf
+178	Cabernet Franc	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.86	5.52	14.5	42.00		Wild One Cabernet Franc	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2018-Cabernet-Franc-ADA.pdf
+179	Carmenere	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.83	5.87	14.2	48.00		Carmenere	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/09/2018-Carmenere-ADA.pdf
+180	Counoise	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.53	6.2	14.2	42.00		Counoise	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/04/2018-Counoise-ADA.pdf
+181	Bordeaux Blend	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.73	5.89	14.3	56.00		Destiny	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/04/2018-Destiny-ADA.pdf
+182	Grenache	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.64	6.7	14.5	42.00		Purple Reign Grenache	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/08/2018-Purple-Reign-Grenache-ADA.pdf
+183	Malbec	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.71	5.56	14.4	42.00		Mr. Popular Malbec	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/01/2018-Mr-Popular-Malbec-ADA.pdf
+184	Merlot	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.71	5.98	14.2	26.00		Gravity Merlot	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/02/2018-Merlot-ADA.pdf
+185	Petit Sirah	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.72	5.5	14.6	48.00		Mr. Big Petite Sirah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/01/2018-Mr-Big-Petite-Sirah-ADA.pdf
+186	Petit Verdot	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.78	5.67	14.4	48.00		Little Big Man Petit Verdot	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/01/2018-Little-Big-Man-Petit-Verdot-ADA.pdf
+187	Bordeaux Blend	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.74	5.88	14.2	26.00		Quarry Butte Red Blend	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/11/2018-Quarry-Butte-ADA.pdf
+188	Syrah	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.68	5.7	14.4	45.00		Block 17 Syrah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/09/2018-Block-17-Syrah-ADA.pdf
+189	Syrah	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.72	6.3	14.2	28.00		Jet Black Syrah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/01/2018-Jet-Black-Syrah-ADA.pdf
+190	Tempranillo	Alexandria Nicole Cellars	Horse Heaven Hills	2018	3.75	6.1	14.3	55.00		Big Shot Tempranillo	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/08/2018-Big-Shot-Tempranillo-ADA.pdf
+191	Cabernet Franc	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.71	5.9	14.4	42.00		Wild One Cabernet Franc	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/08/2017-Cabernet-Franc-ADA.pdf
+192	Cabernet Sauvignon	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.77	5.7	14.5	42.00		Cabernet Sauvignon	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/05/2017-Alderdale-Cabernet-Sauvignon-New.pdf
+193	Carmenere	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.69	5.9	14.2	48.00		Carmenere	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/09/2017-Carmenere-ADA.pdf
+194	Counoise	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.65	5.8	14.2	42.00		Counoise	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/10/2017-Counoise-1-ADA.pdf
+195	Bordeaux Blend	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.7	5.59	14.2	56.00		Destiny	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/ANC-TastingNote-2017Destiny_ada.pdf
+196	Grenache	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.76	5.8	14.2	42.00		Purple Reign Grenache	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2017-Purple-Reign-Grenache-new_ada.pdf
+197	Malbec	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.59	5.57	13.8	42.00		Mr. Popular Malbec	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/ANC-TastingNote-2017Malbec_ada.pdf
+198	Petit Sirah	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.76	5.8	13.9	48.00		Mr. Big Petite Sirah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/08/2017-Mr-Big-Petite-Sirah-ADA.pdf
+199	Petit Verdot	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.6	5.67	NA	48.00		Little Big Man Petit Verdot	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/ANC-TastingNote-2017PetitVerdot_ada.pdf
+200	Bordeaux Blend	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.81	5.7	14.2	26.00		Quarry Butte Red Blend	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/04/2017-Quarry-Butte-ADA.pdf
+201	Rhone Blend	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.61	6.2	14.2	45.00		Rock Star Red	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2021/05/2017-Rock-Star-Red-ADA-2.pdf
+202	Syrah	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.6	5.8	14.4	45.00		Block 17 Syrah	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/ANC-TastingNote-2017Block17Syrah_ada.pdf
+203	Tempranillo	Alexandria Nicole Cellars	Horse Heaven Hills	2017	3.69	5.7	14.2	55.00		Tempranillo	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/ANC-TastingNote-2017Tempranillo_ada.pdf
+204	Cabernet Franc	Alexandria Nicole Cellars	Horse Heaven Hills	2016	3.68	5.5	14.4	42.00		Wild One Cabernet Franc	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/03/2016-Cabernet-Franc-New_ada.pdf
+205	Carmenere	Alexandria Nicole Cellars	Horse Heaven Hills	2016	3.71	6	14.2	48.00		Carmenere	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2016-Carmenere-new_ada.pdf
+206	Counoise	Alexandria Nicole Cellars	Horse Heaven Hills	2016	3.61	5.55	14.2	42.00		Counoise	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2016-Counoise-new_ada.pdf
+207	Bordeaux Blend	Alexandria Nicole Cellars	Horse Heaven Hills	2016	3.72	5.19	14.5	56.00		Destiny	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2016-Destiny-New1_ada.pdf
+208	Grenache	Alexandria Nicole Cellars	Horse Heaven Hills	2016	3.6	6	14.2	42.00		Purple Reign Grenache	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2016-Purple-Reign-Grenache_ada.pdf
+209	Bordeaux Blend	Alexandria Nicole Cellars	Horse Heaven Hills	2016	3.73	5.85	14.2	26.00		Quarry Butte Red Blend	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/02/2016-Quarry-Butte-New_ada.pdf
+210	Rhone Blend	Alexandria Nicole Cellars	Horse Heaven Hills	2016	3.65	5.9	14.2	45.00		Rock Star Red	2021	https://www.alexandrianicolecellars.com/wp-content/uploads/2020/09/2016-Rock-Star-Red-New.pdf
+211	Cabernet Sauvignon	Domaine Magdalena	Red Mountain	2017	4.12	4.5	13			Magdalena Vineyard Cabernet Sauvignon	2021	https://www.domainemagdalena.com/the-wine-2
+212	Syrah	Dusted Valley	Wahluke Slope	2018	4.01	5.34	14.2	55.00	110	Rachis Syrah	2022	https://www.dustedvalley.com/wines/syrah/2018-rachis-syrah/
+213	Syrah	Dusted Valley	Walla Walla Valley	2019	3.72	6.33	14.2	36.00	530.00	Stained Tooth Syrah	2022	https://www.dustedvalley.com/wines/syrah/2019-stained-tooth-syrah/
+214	Syrah	Dusted Valley	Walla Walla Valley	2019	3.96	5.43	14.2	62.00	110	Tall Tales Syrah	2022	https://www.dustedvalley.com/wines/syrah/2019-tall-tales-syrah/
+215	Mourvedre	Dusted Valley	Walla Walla Valley	2019	3.83	5.47	13.9	45.00	110	Mourvedre	2022	https://www.dustedvalley.com/wines/rhone-inspired-wines/2019-mourvedre/
+216	Grenache	Dusted Valley	Walla Walla Valley	2018	3.9	5.25	14.5	45.00	105	Squirrel Tooth Alice	2022	https://www.dustedvalley.com/wines/2018-squirrel-tooth-alice/
+217	Mourvedre	Dusted Valley	Wahluke Slope	2018	3.85	5.49	14.2	45.00	180	Wallywood	2022	https://www.dustedvalley.com/wines/rhone-inspired-wines/2018-wallywood/
+218	Petit Sirah	Dusted Valley	Wahluke Slope	2018	3.92	5.84	14.5	45.00	415	Petit Sirah	2022	https://www.dustedvalley.com/wines/rhone-inspired-wines/2018-petite-sirah/
+219	Cabernet Sauvignon	Dusted Valley	Columbia Valley	2019	3.94	5.95	14.2	35.00	1500	Cabernet Sauvignon	2022	https://www.dustedvalley.com/wines/cabernet-sauvignon/2019-cabernet-sauvignon/
+220	Cabernet Sauvignon	Dusted Valley	Walla Walla Valley	2018	3.74	5.9	14.5	62.00	300	VR Special Cabernet Sauvignon	2022	https://www.dustedvalley.com/wines/cabernet-sauvignon/2018-v-r-special-cabernet-sauvignon/
+221	Malbec	Dusted Valley	Walla Walla Valley	2018	3.76	6.2	14.5	45.00	200	Malbec	2022	https://www.dustedvalley.com/wines/bordeaux-inspired-wines/2018-malbec/
+222	Merlot	Dusted Valley	Columbia Valley	2018	3.74	5.2	14.5	55.00	120	BFM Dionysus Vineyard	2022	https://www.dustedvalley.com/wines/bordeaux-inspired-wines/2018-bfm-dionysus/
+223	Merlot	Dusted Valley	Walla Walla Valley	2018	3.7	6.2	14.5	55.00	145	BFM Southwind	2022	https://www.dustedvalley.com/wines/bordeaux-inspired-wines/2018-bfm-southwind/
+224	Cabernet Franc	Dusted Valley	Walla Walla Valley	2019	3.79	6.25	14.5	45.00	200	Cabernet Franc	2022	https://www.dustedvalley.com/wines/bordeaux-inspired-wines/2019-cabernet-franc/
+225	Rhone Blend	Maryhill Winery	Rattlesnake Hills	2018	3.65	5.89	14.5	54.00	628	Marvell GSM Elephant Mountain Vineyard	2022	https://www.maryhillwinery.com/product/2016-Marvell--GSM---Elephant-Mountain-Vineyard-Copy?sortBy=DisplayOrder&maxRows=10&
+226	Red Blend	Maryhill Winery	Columbia Valley	2017	3.46	6.04	15.2	40.00	235	Tavolo Rosso Proprietor's Reserve	2022	https://www.maryhillwinery.com/product/2016-Tavolo-Rosso-Proprietor-s-Reserve-Copy?sortBy=DisplayOrder&maxRows=10&
+227	Merlot	Maryhill Winery	Columbia Valley	2017	3.48	5.75	14.5	25.00	NA	Merlot	2022	https://www.maryhillwinery.com/product/2016-Merlot-Copy
+228	Bordeaux Blend	Maryhill Winery	Columbia Valley	2017	3.7	6.09	14.8	44.00	486	Serendipity Proprietor's Reserve	2022	https://www.maryhillwinery.com/product/2016-Serendipity-Proprietor-s-Reserve-Copy?sortBy=DisplayOrder&maxRows=10&
+229	Cabernet Franc	Maryhill Winery	Columbia Valley	2018	3.5	5.85	14.5	28.00	1888	Cabernet Franc	2022	https://www.maryhillwinery.com/product/2017-Cabernet-Franc-Copy?sortBy=DisplayOrder&maxRows=10&
+230	Carmenere	Maryhill Winery	Rattlesnake Hills	2018	3.56	5.93	14.2	55.00	257	Carmenere Elephant Mountain Vineyard	2022	https://www.maryhillwinery.com/product/2017-Carmenere--Elephant-Mountain-Vineyard-Copy?sortBy=DisplayOrder&maxRows=10&
+231	Sangiovese	Maryhill Winery	Columbia Valley	2017	3.65	5.99	14.5	28.00	489	Sangiovese	2022	https://www.maryhillwinery.com/product/2016-Sangiovese-Copy?sortBy=DisplayOrder&maxRows=10&
+232	Cabernet Franc	Maryhill Winery	Columbia Valley	2017	3.52	6.38	14.8	42.00	234	Cabernet Franc Proprietor's Reserve	2022	https://www.maryhillwinery.com/product/2016-Cabernet-Franc-Proprietor-s-Reserve-Copy?sortBy=DisplayOrder&maxRows=10&
+233	Cabernet Sauvignon	Maryhill Winery	Red Mountain	2018	3.75	5.87	15	50.00	611	Cabernet Sauvignon Klipsun Vineyard	2022	https://www.maryhillwinery.com/product/2018-Cabernet-Sauvignon--Kiona-Vineyard-Copy1?sortBy=DisplayOrder&maxRows=10&
+234	Cinsaut	Maryhill Winery	Horse Heaven Hills	2018	3.58	5.8	14.5	54.00	234	Cinsaut McKinley Springs Vineyard	2022	https://www.maryhillwinery.com/product/2017-Cinsaut--McKinley-Springs-Vineyard-Copy?sortBy=DisplayOrder&maxRows=10&
+235	Red Blend	Maryhill Winery	Columbia Valley	2019	3.61	5.95	14.1	18.00	7280	Winemaker's Red	2022	https://www.maryhillwinery.com/product/2018-Winemaker-s-Red-Copy?sortBy=DisplayOrder&maxRows=10&
+236	Dolcetto	Maryhill Winery	Yakima Valley	2018	3.47	5.85	14.2	54.00	127	Dolcetto Art Den Hoed Vineyard Painted Hills	2022	https://www.maryhillwinery.com/product/2017-Dolcetto--Art-Den-Hoed-Vineyard-Painted-Hills-Copy?sortBy=DisplayOrder&maxRows=10&
+237	Red Blend	Maryhill Winery	Columbia Valley	2018	3.71	5.74	14.8	40.00	181	Rosso Granato Proprietor's Reserve	2022	https://www.maryhillwinery.com/product/2017-Rosso-Granato-Proprietor-s-Reserve-Copy?sortBy=DisplayOrder&maxRows=10&
+238	Red Blend	Maryhill Winery	Columbia Valley	2018	3.47	5.89	14.1	19.00	NA	Winemaker's Red Spokane Humane Society	2022	https://www.maryhillwinery.com/product/2018-Winemaker-s-Red-Copy1?sortBy=DisplayOrder&maxRows=10&
+239	Cabernet Sauvignon	Maryhill Winery	Wahluke Slope	2018	3.67	5.88	15	50.00	404	Cabernet Sauvignong Northridge Vineyard	2022	https://www.maryhillwinery.com/product/2017-Cabernet-Sauvignon--Clifton-Hill-Vineyard-Copy?sortBy=DisplayOrder&maxRows=10&
+240	Merlot	Maryhill Winery	Horse Heaven Hills	2017	3.51	5.87	14.5	48.00	318	Merlot McKinley Springs Vineyard	2022	https://www.maryhillwinery.com/product/2012-Merlot--McKinley-Springs-Vineyard-Copy?sortBy=DisplayOrder&maxRows=10&
+241	Cabernet Sauvignon	Maryhill Winery	Rattlesnake Hills	2017	3.99	6.01	15.5	50.00	315	Cabernet Sauvignon Elephant Mountain Vineyards	2022	https://www.maryhillwinery.com/product/2017-Cabernet-Sauvignon--Elephant-Mountain-Vineyards?sortBy=DisplayOrder&maxRows=10&
+242	Zinfandel	Maryhill Winery	Columbia Valley	2017	3.62	5.64	15.5	20.00	1284	Zinfandel	2022	https://www.maryhillwinery.com/product/2016-Zinfandel-Copy?sortBy=DisplayOrder&maxRows=10&
+243	Petit Sirah	Maryhill Winery	Red Mountain	2017	3.39	6.23	15	48.00	303	Petit Sirah Kiona Vineyards	2022	https://www.maryhillwinery.com/product/2016-Petite-Sirah--Kiona-Vineyards-Copy?sortBy=DisplayOrder&maxRows=10&
+244	Cabernet Sauvignon	Maryhill Winery	Columbia Valley	2018	3.59	5.78	14.5	31.00	2421	Cabernet Sauvignon	2022	https://www.maryhillwinery.com/product/2017-Cabernet-Sauvignon-Copy?sortBy=DisplayOrder&maxRows=10&
+245	Primitivo	Maryhill Winery	Columbia Valley	2018	3.74	5.82	15	40.00	235	Primitivo Art Den Hoed Vineyard Painted Hills	2022	https://www.maryhillwinery.com/product/2017-Primitivo--Art-Den-Hoed-Vineyard-Painted-Hills-Copy?sortBy=DisplayOrder&maxRows=10&
+246	Grenache	Maryhill Winery	Columbia Valley	2017	3.27	6.23	14.5	46.00	855	Grenache Proprietor's Reserve	2022	https://www.maryhillwinery.com/product/2016-Grenache-Proprietor-s-Reserve-Copy?sortBy=DisplayOrder&maxRows=10&
+247	Syrah	Maryhill Winery	Columbia Valley	2017	3.8	6.09	15.5	44.00	346	Syrah Proprietor's Reserve	2022	https://www.maryhillwinery.com/product/2016-Syrah-Proprietor-s-Reserve-Copy?sortBy=DisplayOrder&maxRows=10&
+248	Cabernet Sauvignon	Maryhill Winery	Columbia Valley	2017	3.81	5.93	15.2	50.00	596	Cabernet Sauvignon Proprietor's Reserve	2022	https://www.maryhillwinery.com/product/2016-Cabernet-Sauvignon-Proprietor-s-Reserve-Copy?sortBy=DisplayOrder&maxRows=10&
+249	Syrah	Maryhill Winery	Columbia Valley	2017	4.02	5.82	14.5	28.00	1307	Syrah	2022	https://www.maryhillwinery.com/product/2017-Syrah-Copy?sortBy=DisplayOrder&maxRows=10&
+250	Tempranillo	Maryhill Winery	Columbia Valley	2018	3.92	5.96	14.5	50.00	275	Tempranillo Art Den Hoed Vineyard Painted Hills	2022	https://www.maryhillwinery.com/product/2017-Tempranillo--Art-Den-Hoed-Vineyard-Painted-Hills-Copy?sortBy=DisplayOrder&maxRows=10&
+251	Red Blend	Maryhill Winery	Columbia Valley	2017	3.53	6.23	14.8	50.00	354	Lot 12 Proprietor's Reserve	2022	https://www.maryhillwinery.com/product/2017-Lot-12-Proprietor-s-Reserve?sortBy=DisplayOrder&maxRows=10&
+252	Pinot Noir	Maryhill Winery	Columbia Valley	2018	3.53	6.09	14.8	40.00	1319	Pinot Noir Proprietor's Reserve	2022	https://www.maryhillwinery.com/product/2017-Pinot-Noir-Proprietor-s-Reserve-Copy?sortBy=DisplayOrder&maxRows=10&
